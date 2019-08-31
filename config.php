@@ -38,6 +38,11 @@
                 'name'    => 'Salert',
               ),
               array(
+                'slug'    => 'smart-slider-3',
+                'init'    => 'smart-slider-3/smart-slider-3.php',
+                'name'    => 'Smart Slider',
+              ),
+              array(
                 'slug'    => 'contact-form-7',
                 'init'    => 'contact-form-7/wp-contact-form-7.php',
                 'name'    => 'Contact Form 7',
