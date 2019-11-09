@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/5.2.2" created="2019-08-31 14:46" -->
+	<!-- generator="WordPress/5.2.4" created="2019-11-09 04:01" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Opstore Lite</title>
 	<link>https://demo.wpoperation.com/opstore-lite/furniture</link>
 	<description>Best Furniture &#38; Interior Collections</description>
-	<pubDate>Sat, 31 Aug 2019 14:46:41 +0000</pubDate>
+	<pubDate>Sat, 09 Nov 2019 04:01:25 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://demo.wpoperation.com/opstore-lite/</wp:base_site_url>
@@ -59,7 +59,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[15]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
@@ -82,11 +82,30 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[14]]></wp:meta_value>
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[26]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[double-beds]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Double Beds]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[13]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -137,6 +156,33 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[17]]></wp:meta_value>
+		</wp:termmeta>
+	</wp:term>
+		<wp:term>
+		<wp:term_id><![CDATA[27]]></wp:term_id>
+		<wp:term_taxonomy><![CDATA[product_cat]]></wp:term_taxonomy>
+		<wp:term_slug><![CDATA[office-decor]]></wp:term_slug>
+		<wp:term_parent><![CDATA[]]></wp:term_parent>
+		<wp:term_name><![CDATA[Office Decor]]></wp:term_name>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[order]]></wp:meta_key>
+			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[19]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -218,7 +264,7 @@
 		</wp:termmeta>
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
-			<wp:meta_value><![CDATA[0]]></wp:meta_value>
+			<wp:meta_value><![CDATA[18]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -230,6 +276,14 @@
 		<wp:termmeta>
 			<wp:meta_key><![CDATA[product_count_product_cat]]></wp:meta_key>
 			<wp:meta_value><![CDATA[3]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[display_type]]></wp:meta_key>
+			<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:termmeta>
+		<wp:termmeta>
+			<wp:meta_key><![CDATA[thumbnail_id]]></wp:meta_key>
+			<wp:meta_value><![CDATA[17]]></wp:meta_value>
 		</wp:termmeta>
 	</wp:term>
 		<wp:term>
@@ -244,7 +298,7 @@
 	<wp:term><wp:term_id>22</wp:term_id><wp:term_taxonomy>nav_menu</wp:term_taxonomy><wp:term_slug><![CDATA[shop-menu]]></wp:term_slug><wp:term_name><![CDATA[Shop menu]]></wp:term_name>
 </wp:term>
 
-	<generator>https://wordpress.org/?v=5.2.2</generator>
+	<generator>https://wordpress.org/?v=5.2.4</generator>
 
 		<item>
 		<title>woocommerce-placeholder</title>
@@ -495,161 +549,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>logo-lite-sm</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/home/logo-lite-sm/</link>
-		<pubDate>Sat, 24 Aug 2019 02:05:05 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-lite-sm.png</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>53</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 02:05:05]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 02:05:05]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[logo-lite-sm]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>10</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-lite-sm.png]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/logo-lite-sm.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:160;s:6:"height";i:55;s:4:"file";s:24:"2019/08/logo-lite-sm.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:23:"logo-lite-sm-150x55.png";s:5:"width";i:150;s:6:"height";i:55;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:23:"logo-lite-sm-100x55.png";s:5:"width";i:100;s:6:"height";i:55;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:23:"logo-lite-sm-100x55.png";s:5:"width";i:100;s:6:"height";i:55;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>slider30</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/slider30/</link>
-		<pubDate>Sat, 24 Aug 2019 02:40:56 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/slider30.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>63</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 02:40:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 02:40:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[slider30]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/slider30.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/slider30.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1170;s:6:"height";i:500;s:4:"file";s:20:"2019/08/slider30.jpg";s:5:"sizes";a:13:{s:9:"thumbnail";a:4:{s:4:"file";s:20:"slider30-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:20:"slider30-300x128.jpg";s:5:"width";i:300;s:6:"height";i:128;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:20:"slider30-768x328.jpg";s:5:"width";i:768;s:6:"height";i:328;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:21:"slider30-1024x438.jpg";s:5:"width";i:1024;s:6:"height";i:438;s:9:"mime-type";s:10:"image/jpeg";}s:21:"yith-woocompare-image";a:4:{s:4:"file";s:20:"slider30-220x154.jpg";s:5:"width";i:220;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";}s:17:"opstore-blog-list";a:4:{s:4:"file";s:20:"slider30-850x500.jpg";s:5:"width";i:850;s:6:"height";i:500;s:9:"mime-type";s:10:"image/jpeg";}s:20:"opstore-blog-default";a:4:{s:4:"file";s:20:"slider30-370x265.jpg";s:5:"width";i:370;s:6:"height";i:265;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:20:"slider30-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:20:"slider30-600x256.jpg";s:5:"width";i:600;s:6:"height";i:256;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:20:"slider30-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:20:"slider30-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:20:"slider30-600x256.jpg";s:5:"width";i:600;s:6:"height";i:256;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:20:"slider30-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>slider4.3</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/slider4-3/</link>
-		<pubDate>Sat, 24 Aug 2019 02:42:04 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/slider4.3.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>64</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 02:42:04]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 02:42:04]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[slider4-3]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/slider4.3.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/slider4.3.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1365;s:6:"height";i:760;s:4:"file";s:21:"2019/08/slider4.3.jpg";s:5:"sizes";a:13:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"slider4.3-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"slider4.3-300x167.jpg";s:5:"width";i:300;s:6:"height";i:167;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"slider4.3-768x428.jpg";s:5:"width";i:768;s:6:"height";i:428;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"slider4.3-1024x570.jpg";s:5:"width";i:1024;s:6:"height";i:570;s:9:"mime-type";s:10:"image/jpeg";}s:21:"yith-woocompare-image";a:4:{s:4:"file";s:21:"slider4.3-220x154.jpg";s:5:"width";i:220;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";}s:17:"opstore-blog-list";a:4:{s:4:"file";s:21:"slider4.3-850x650.jpg";s:5:"width";i:850;s:6:"height";i:650;s:9:"mime-type";s:10:"image/jpeg";}s:20:"opstore-blog-default";a:4:{s:4:"file";s:21:"slider4.3-370x265.jpg";s:5:"width";i:370;s:6:"height";i:265;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:21:"slider4.3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"slider4.3-600x334.jpg";s:5:"width";i:600;s:6:"height";i:334;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"slider4.3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:21:"slider4.3-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"slider4.3-600x334.jpg";s:5:"width";i:600;s:6:"height";i:334;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"slider4.3-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>banner4.1</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/home/banner4-1/</link>
-		<pubDate>Sat, 24 Aug 2019 02:52:59 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/banner4.1.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>66</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 02:52:59]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 02:52:59]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner4-1]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>10</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/banner4.1.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/banner4.1.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:365;s:6:"height";i:365;s:4:"file";s:21:"2019/08/banner4.1.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"banner4.1-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"banner4.1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:21:"yith-woocompare-image";a:4:{s:4:"file";s:21:"banner4.1-220x154.jpg";s:5:"width";i:220;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";}s:20:"opstore-blog-default";a:4:{s:4:"file";s:21:"banner4.1-365x265.jpg";s:5:"width";i:365;s:6:"height";i:265;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:21:"banner4.1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"banner4.1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:21:"banner4.1-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"banner4.1-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>banner4.2</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/home/banner4-2/</link>
-		<pubDate>Sat, 24 Aug 2019 02:53:46 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/banner4.2.jpg</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>67</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 02:53:46]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 02:53:46]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[banner4-2]]></wp:post_name>
-		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>10</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[attachment]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/banner4.2.jpg]]></wp:attachment_url>
-											<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2019/08/banner4.2.jpg]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:365;s:6:"height";i:365;s:4:"file";s:21:"2019/08/banner4.2.jpg";s:5:"sizes";a:8:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"banner4.2-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"banner4.2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:21:"yith-woocompare-image";a:4:{s:4:"file";s:21:"banner4.2-220x154.jpg";s:5:"width";i:220;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";}s:20:"opstore-blog-default";a:4:{s:4:"file";s:21:"banner4.2-365x265.jpg";s:5:"width";i:365;s:6:"height";i:265;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:21:"banner4.2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"banner4.2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:21:"banner4.2-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"banner4.2-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>main-banner-1-1</title>
 		<link>https://demo.wpoperation.com/opstore-lite/furniture/main-banner-1-1/</link>
 		<pubDate>Sat, 24 Aug 2019 03:02:49 +0000</pubDate>
@@ -867,133 +766,6 @@
 		</wp:postmeta>
 							</item>
 					<item>
-		<title>opstore-lite</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/2019/08/24/opstore-lite/</link>
-		<pubDate>Sat, 24 Aug 2019 00:45:14 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/2019/08/24/opstore-lite/</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>23</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 00:45:14]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 00:45:14]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[opstore-lite]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														</item>
-					<item>
-		<title></title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/2019/08/24/27/</link>
-		<pubDate>Sat, 24 Aug 2019 00:51:33 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?p=27</guid>
-		<description></description>
-		<content:encoded><![CDATA[ ]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>27</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 00:51:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 00:51:33]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[27]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>1</wp:menu_order>
-		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[10]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
-		<wp:meta_value><![CDATA[page]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Top Header Elements</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/?elementor_library=top-header-elements</link>
-		<pubDate>Sat, 24 Aug 2019 02:32:50 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?elementor_library=top-header-elements</guid>
-		<description></description>
-		<content:encoded><![CDATA[<img width="160" height="55" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-lite-sm.png" alt="" />											
-			<a href="#" role="button">
-						Login / Register
-					</a>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>58</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 02:32:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 02:32:50]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[top-header-elements]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="elementor_library_type" nicename="section"><![CDATA[section]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
-		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[section]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:6:{s:36:"wp-widget-woocommerce_product_search";i:1;s:6:"column";i:5;s:5:"image";i:1;s:6:"button";i:1;s:19:"opstore-header-icon";i:2;s:7:"section";i:1;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"84ece0b","elType":"section","settings":{"structure":"50","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"04d1039","elType":"column","settings":{"_column_size":20,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size":21.315999999999998948396751075051724910736083984375},"elements":[{"id":"bdddf5d","elType":"widget","settings":[],"elements":[],"widgetType":"wp-widget-woocommerce_product_search"}],"isInner":false},{"id":"1823133","elType":"column","settings":{"_column_size":20,"_inline_size":49.12299999999999755573298898525536060333251953125},"elements":[{"id":"cda3195","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/logo-lite-sm.png","id":53},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"6017dcf","elType":"column","settings":{"_column_size":20,"_inline_size":16.22800000000000153477230924181640148162841796875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"0c37248","elType":"widget","settings":{"text":"Login \/ Register","button_text_color":"#555555","background_color":"#ffffff"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"b30c6cc","elType":"column","settings":{"_column_size":20,"_inline_size":6.30900000000000016342482922482304275035858154296875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a556314","elType":"widget","settings":{"icon_type":"wishlist","show_price":"","header_icon":"fa fa-heart-o"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"1fc7dd7","elType":"column","settings":{"_column_size":20,"_inline_size":7.02400000000000002131628207280300557613372802734375,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"d86adb2","elType":"widget","settings":{"icon_type":"cart","show_price":"","header_icon":"fa fa-shopping-cart","font_size":23},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title>bn10</title>
 		<link>https://demo.wpoperation.com/opstore-lite/furniture/home/bn10/</link>
 		<pubDate>Sat, 24 Aug 2019 09:02:22 +0000</pubDate>
@@ -1146,6 +918,144 @@
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
 		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:719;s:6:"height";i:1000;s:4:"file";s:13:"2019/08/4.jpg";s:5:"sizes";a:12:{s:9:"thumbnail";a:4:{s:4:"file";s:13:"4-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:13:"4-216x300.jpg";s:5:"width";i:216;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:21:"yith-woocompare-image";a:4:{s:4:"file";s:13:"4-220x154.jpg";s:5:"width";i:220;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";}s:17:"opstore-blog-list";a:4:{s:4:"file";s:13:"4-719x650.jpg";s:5:"width";i:719;s:6:"height";i:650;s:9:"mime-type";s:10:"image/jpeg";}s:20:"opstore-blog-default";a:4:{s:4:"file";s:13:"4-370x265.jpg";s:5:"width";i:370;s:6:"height";i:265;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:13:"4-300x400.jpg";s:5:"width";i:300;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:13:"4-600x834.jpg";s:5:"width";i:600;s:6:"height";i:834;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:13:"4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:13:"4-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:13:"4-600x834.jpg";s:5:"width";i:600;s:6:"height";i:834;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:13:"4-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_thumbnail_preview";a:4:{s:4:"file";s:13:"4-300x400.jpg";s:5:"width";i:300;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>opstore-lite</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/2019/08/24/opstore-lite/</link>
+		<pubDate>Sat, 24 Aug 2019 00:45:14 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/2019/08/24/opstore-lite/</guid>
+		<description></description>
+		<content:encoded><![CDATA[.footer-btn{
+	margin-top: 20px;
+}
+.footer-btn a {
+    border: 1px solid #fff;
+    padding: 10px;
+    color: #fff;
+}
+.footer-btn a:hover {
+	background: #fff;
+	color: #000;
+}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>23</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-24 00:45:14]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-24 00:45:14]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[opstore-lite]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[custom_css]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														</item>
+					<item>
+		<title></title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/2019/08/24/27/</link>
+		<pubDate>Sat, 24 Aug 2019 00:51:33 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?p=27</guid>
+		<description></description>
+		<content:encoded><![CDATA[ ]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>27</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-24 00:51:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-24 00:51:33]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[27]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>1</wp:menu_order>
+		<wp:post_type><![CDATA[nav_menu_item]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="nav_menu" nicename="primary"><![CDATA[Primary]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[post_type]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_menu_item_parent]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[10]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_object]]></wp:meta_key>
+		<wp:meta_value><![CDATA[page]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_target]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_classes]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:1:{i:0;s:0:"";}]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_xfn]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>Top Header Elements</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/?elementor_library=top-header-elements</link>
+		<pubDate>Sat, 24 Aug 2019 02:32:50 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?elementor_library=top-header-elements</guid>
+		<description></description>
+		<content:encoded><![CDATA[<img width="160" height="55" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-lite-sm.png" alt="" />											
+			<a href="#" role="button">
+						Login / Register
+					</a>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>58</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-24 02:32:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-24 02:32:50]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[top-header-elements]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[elementor_library]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="elementor_library_type" nicename="section"><![CDATA[section]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_edit_mode]]></wp:meta_key>
+		<wp:meta_value><![CDATA[builder]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[section]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[default]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"84ece0b","elType":"section","settings":{"structure":"50","margin":{"unit":"px","top":"30","right":0,"bottom":"0","left":0,"isLinked":false}},"elements":[{"id":"04d1039","elType":"column","settings":{"_column_size":20,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size":21.315999999999998948396751075051724910736083984375},"elements":[{"id":"bdddf5d","elType":"widget","settings":[],"elements":[],"widgetType":"wp-widget-woocommerce_product_search"}],"isInner":false},{"id":"1823133","elType":"column","settings":{"_column_size":20,"_inline_size":49.12299999999999755573298898525536060333251953125},"elements":[{"id":"cda3195","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/logo-lite-sm.png","id":53},"image_size":"full"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"6017dcf","elType":"column","settings":{"_column_size":20,"_inline_size":16.22800000000000153477230924181640148162841796875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"0c37248","elType":"widget","settings":{"text":"Login \/ Register","button_text_color":"#555555","background_color":"#ffffff"},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"b30c6cc","elType":"column","settings":{"_column_size":20,"_inline_size":6.30900000000000016342482922482304275035858154296875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"a556314","elType":"widget","settings":{"icon_type":"wishlist","show_price":"","header_icon":"fa fa-heart-o"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"1fc7dd7","elType":"column","settings":{"_column_size":20,"_inline_size":7.02400000000000002131628207280300557613372802734375,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"d86adb2","elType":"widget","settings":{"icon_type":"cart","show_price":"","header_icon":"fa fa-shopping-cart","font_size":23},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:36:"wp-widget-woocommerce_product_search";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:0:{}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:4;}}s:6:"layout";a:1:{s:6:"layout";a:1:{s:12:"_inline_size";i:5;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:2:{s:5:"image";i:1;s:10:"image_size";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:17:"button_text_color";i:1;s:16:"background_color";i:1;}}}}s:19:"opstore-header-icon";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:2:{s:7:"content";a:1:{s:21:"opstore_sections_list";a:3:{s:9:"icon_type";i:2;s:10:"show_price";i:2;s:11:"header_icon";i:2;}}s:5:"style";a:1:{s:11:"icon_styles";a:1:{s:9:"font_size";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:6:"margin";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1399,8 +1309,9 @@
 		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?post_type=elementor_library&#038;p=232</guid>
 		<description></description>
-		<content:encoded><![CDATA[<a href="https://demo.wpoperation.com/opstore-lite/furniture/" data-elementor-open-lightbox="">
-							<img width="160" height="55" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-lite-1.png" alt="" />								</a>
+		<content:encoded><![CDATA[🔥 Get an extra 50% off with our Winter Sale – just use the coupon WINTERSALE at the checkout!		
+											<a href="https://demo.wpoperation.com/opstore-lite/furniture/" data-elementor-open-lightbox="">
+							<img width="179" height="53" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-furniture1.png" alt="" />								</a>
 			<figure><img width="35" height="40" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/header-icon1.png" alt="" /></figure>Free Shipping<p>Order $250</p>		
 			<figure><img width="35" height="40" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/header-icon2.png" alt="" /></figure>Contact<p>+01 2121 313</p>		
 					<ul>
@@ -1417,9 +1328,11 @@
 											</a>
 									</li>
 						</ul>
-			<a href="https://demo.wpoperation.com/opstore-lite/furniture/shop">Flash Sale!!</a>		
+											<a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="">
+							<img width="28" height="28" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/offer.png" alt="" />								</a>
+			<a href="https://demo.wpoperation.com/opstore-lite/furniture/shop">HOT DEAL!!</a>		
 											<a href="https://demo.wpoperation.com/opstore-lite/furniture/" data-elementor-open-lightbox="">
-							<img width="160" height="55" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-lite-1.png" alt="" />								</a>]]></content:encoded>
+							<img width="179" height="53" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-furniture1.png" alt="" />								</a>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>232</wp:post_id>
 		<wp:post_date><![CDATA[2019-08-26 16:12:03]]></wp:post_date>
@@ -1444,7 +1357,7 @@
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.7.5]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
@@ -1455,12 +1368,12 @@
 		<wp:meta_value><![CDATA[elementor_canvas]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:5:"image";i:2;s:6:"column";i:15;s:22:"opstore-advance-search";i:2;s:9:"image-box";i:2;s:19:"opstore-header-icon";i:5;s:7:"section";i:4;s:20:"wpopea-advanced-menu";i:2;s:9:"icon-list";i:2;s:7:"heading";i:1;}]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
+		<wp:meta_value><![CDATA[[{"id":"63b0c5c","elType":"section","settings":{"layout":"full_width","gap":"no","structure":"30","background_background":"classic","background_color":"#53a6d9","css_classes":"ad-section"},"elements":[{"id":"c85dce1","elType":"column","settings":{"_column_size":33,"_inline_size":8.230000000000000426325641456060111522674560546875,"content_position":"center"},"elements":[],"isInner":false},{"id":"ce062b0","elType":"column","settings":{"_column_size":33,"_inline_size":83.635999999999995679900166578590869903564453125,"content_position":"center"},"elements":[{"id":"e7d40e4","elType":"widget","settings":{"title":"\ud83d\udd25\u00a0Get an extra 50% off with our Winter Sale \u2013 just use the coupon WINTERSALE at the checkout!","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size_mobile":{"unit":"px","size":11},"_padding":{"unit":"px","top":"10","right":"0","bottom":"10","left":"0","isLinked":false},"_animation":"lightSpeedIn","animation_duration":"slow","_animation_delay":5,"typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","typography_letter_spacing":{"unit":"px","size":0.8000000000000000444089209850062616169452667236328125,"sizes":[]}},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"6ef5341","elType":"column","settings":{"_column_size":33,"_inline_size":8.132999999999999118927007657475769519805908203125,"content_position":"bottom"},"elements":[{"id":"c86eb48","elType":"widget","settings":{"selected_icon":{"value":"fas fa-chevron-up","library":"fa-solid"},"primary_color":"#ffffff","size":{"unit":"px","size":17,"sizes":[]},"_z_index":1,"_css_classes":"ad-close","_offset_x":{"unit":"vh","size":"","sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"72","isLinked":false},"_padding":{"unit":"px","top":"9","right":"0","bottom":"4","left":"0","isLinked":false},"_background_background":"classic","_background_color":"#53a6d9","_position":"absolute","_offset_y":{"unit":"%","size":91,"sizes":[]}},"elements":[],"widgetType":"icon"}],"isInner":false}],"isInner":false},{"id":"65c4e79f","elType":"section","settings":{"structure":"60","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hide_mobile":"hidden-phone","gap":"no"},"elements":[{"id":"e8d74e0","elType":"column","settings":{"_column_size":16,"_inline_size":15.3480000000000007531752999057061970233917236328125,"_inline_size_tablet":30},"elements":[{"id":"1a6f26f8","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/logo-furniture1.png","id":330},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/","is_external":"","nofollow":""},"align_tablet":"left","align_mobile":"center"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"7f744e42","elType":"column","settings":{"_column_size":16,"_inline_size":47.006000000000000227373675443232059478759765625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_inline_size_tablet":65,"content_position_mobile":"center","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"78a96ed5","elType":"widget","settings":{"placeholder":"Search...","button_color":"#53a6d9","button_hover_color":"#53a6d9","border_radius":{"unit":"px","size":"","sizes":[]},"text_color":"#ffffff","text_hover_color":"#ffffff"},"elements":[],"widgetType":"opstore-advance-search"}],"isInner":false},{"id":"129a4e55","elType":"column","settings":{"_column_size":16,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"20","isLinked":false},"_inline_size_tablet":30,"_inline_size_mobile":30},"elements":[{"id":"5c76ab6c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/header-icon1.png","id":73},"title_text":"Free Shipping","description_text":"Order $250","position":"left","title_size":"span","title_color":"#000000","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":14,"sizes":[]},"title_typography_font_weight":"500","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":45,"sizes":[]},"text_align":"left","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"1e917408","elType":"column","settings":{"_column_size":16,"_inline_size":14.5,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"border_color":"#f5f5f5","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":30,"_inline_size_mobile":30,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6680d372","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/header-icon2.png","id":88},"title_text":"Contact","description_text":"+01 2121 313","position":"left","title_size":"span","title_color":"#000000","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":14,"sizes":[]},"title_typography_font_weight":"500","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]},"text_align":"left","image_space":{"unit":"px","size":0,"sizes":[]},"image_space_mobile":{"unit":"px","size":11,"sizes":[]},"image_size":{"unit":"%","size":45,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"1aae50f7","elType":"column","settings":{"_column_size":16,"_inline_size":6.68599999999999994315658113919198513031005859375,"margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":20},"elements":[{"id":"4e3cebaa","elType":"widget","settings":{"icon_type":"wishlist","show_price":"","font_size":23,"icon_color":"#000000","icon_hover_color":"#53a6d9","custom_icon":"lnr lnr-heart icon"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"113354b0","elType":"column","settings":{"_column_size":16,"_inline_size":3.204000000000000181188397618825547397136688232421875,"margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":20},"elements":[{"id":"7e67f9d7","elType":"widget","settings":{"icon_type":"cart","show_price":"","font_size":23,"custom_icon":"lnr lnr-cart icon","minicart_style":"offcanvas","icon_hover_color":"#53a6d9","align_items":"text-left"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false}],"isInner":false},{"id":"3c2efe1e","elType":"section","settings":{"background_background":"classic","background_color":"#ffffff","structure":"40","gap":"no","hide_mobile":"hidden-phone","padding":{"unit":"px","top":"5","right":"0","bottom":"5","left":"0","isLinked":false},"box_shadow_box_shadow_type":"yes","box_shadow_box_shadow":{"horizontal":0,"vertical":6,"blur":12,"spread":-3,"color":"rgba(0,0,0,0.5)"},"z_index":99},"elements":[{"id":"1e3bf9a6","elType":"column","settings":{"_column_size":25,"_inline_size":20.256000000000000227373675443232059478759765625,"content_position_tablet":"center","_inline_size_tablet":50,"content_position":"center"},"elements":[{"id":"c6b438e","elType":"widget","settings":{"title":"Categories","show_title_icon":"yes","show_catimage":"yes","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":17,"sizes":[]},"title_typography_font_weight":"normal","title_typography_text_transform":"uppercase","content_space":{"unit":"px","size":45,"sizes":[]},"content_border_radius":{"unit":"px","size":6,"sizes":[]},"content_padding":{"unit":"px","top":"0","right":"30","bottom":"20","left":"30","isLinked":false},"cat_typography_typography":"custom","cat_typography_font_weight":"normal","cat_padding":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"hide_empty":"","cat_border_width":{"unit":"px","top":"0","right":"0","bottom":"1","left":"0","isLinked":false},"cat_border_color":"#e2e2e2","cat_hover_color":"#53a6d9"},"elements":[],"widgetType":"wpopea-category-dropdown"}],"isInner":false},{"id":"0b75a2f","elType":"column","settings":{"_column_size":25,"_inline_size":47.39399999999999835154085303656756877899169921875,"content_position":"center","align":"center","padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"5f7c777","elType":"widget","settings":{"toggle_label":"Menu","align_items":"left","pointer":"double-line","animation_text":"float","menu_type":"off-canvas","menu_typography_typography":"custom","menu_typography_text_transform":"capitalize","color_menu_item":"#000000","dropdown":"mobile","padding_horizontal_menu_item_tablet":{"unit":"px","size":12,"sizes":[]},"animation_line":"slide","indicator":"angle","color_menu_item_hover":"#53a6d9","pointer_color_menu_item_hover":"#53a6d9","color_menu_item_active":"#53a6d9","pointer_color_menu_item_active":"#53a6d9","pointer_width":{"unit":"px","size":2,"sizes":[]}},"elements":[],"widgetType":"wpopea-advanced-menu"}],"isInner":false},{"id":"b92345","elType":"column","settings":{"_column_size":25,"_inline_size":14.82900000000000062527760746888816356658935546875,"content_position_tablet":"center","_inline_size_tablet":30,"content_position":"center","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"30","bottom":"0","left":"0","isLinked":false},"css_classes":"lrm-login "},"elements":[{"id":"daa00cd","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"Login \/ Register","selected_icon":{"value":"far fa-user","library":"fa-regular"},"_id":"df0bf78","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/my-account","is_external":"","nofollow":""}}],"space_between":{"unit":"px","size":0,"sizes":[]},"icon_align":"right","icon_color":"#ffffff","icon_color_hover":"#ffc400","icon_size":{"unit":"px","size":17,"sizes":[]},"icon_self_align":"left","text_color":"#ffffff","text_color_hover":"#ffc400","text_indent":{"unit":"px","size":15,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-20","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"lrm-hide-if-logged-in lrm-login"},"elements":[],"widgetType":"icon-list"},{"id":"b933c44","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"My Account","selected_icon":{"value":"fas fa-user-cog","library":"fa-solid"},"_id":"df0bf78","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/my-account","is_external":"","nofollow":""}}],"space_between":{"unit":"px","size":0,"sizes":[]},"icon_align":"right","icon_color":"#000000","icon_color_hover":"#53a6d9","icon_size":{"unit":"px","size":17,"sizes":[]},"icon_self_align":"left","text_color":"#000000","text_color_hover":"#53a6d9","text_indent":{"unit":"px","size":15,"sizes":[]},"icon_typography_typography":"custom","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"lrm-show-if-logged-in"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"d2e9010","elType":"column","settings":{"_column_size":25,"_inline_size":17.5210000000000007958078640513122081756591796875,"content_position_tablet":"center","_inline_size_tablet":20,"content_position":"center","background_color":"#ffc400","background_hover_color":"#ffc60c","background_hover_transition":{"unit":"px","size":0.59999999999999997779553950749686919152736663818359375,"sizes":[]}},"elements":[{"id":"26d313f","elType":"section","settings":{"layout":"full_width","gap":"no","structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"1","right":"1","bottom":"1","left":"1","isLinked":true},"border_color":"#d8d8d8"},"elements":[{"id":"2b2feae","elType":"column","settings":{"_column_size":50,"_inline_size":25.742999999999998550492819049395620822906494140625,"content_position":"center","background_background":"classic","background_color":"#53a6d9","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"10","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[{"id":"f024420","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/offer.png","id":308},"link_to":"custom","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/shop","is_external":"","nofollow":""}},"elements":[],"widgetType":"image"}],"isInner":true},{"id":"ddc4a9a","elType":"column","settings":{"_column_size":50,"_inline_size":74.2409999999999996589394868351519107818603515625,"content_position":"center","background_background":"classic","background_color":"#ffffff"},"elements":[{"id":"ef51aa8","elType":"widget","settings":{"title":"HOT DEAL!!","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/shop","is_external":"","nofollow":""},"header_size":"span","align":"left","title_color":"#000000","typography_typography":"custom","typography_font_size":{"unit":"px","size":16,"sizes":[]},"typography_font_size_tablet":{"unit":"px","size":14,"sizes":[]},"typography_text_transform":"uppercase","typography_letter_spacing":{"unit":"px","size":2.100000000000000088817841970012523233890533447265625,"sizes":[]},"typography_letter_spacing_tablet":{"unit":"px","size":0.59999999999999997779553950749686919152736663818359375,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"13","isLinked":false}},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"417cf97","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hide_desktop":"hidden-desktop","hide_tablet":"hidden-tablet"},"elements":[{"id":"11d4304","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":30},"elements":[{"id":"d5ca3f0","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/logo-furniture1.png","id":330},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/","is_external":"","nofollow":""},"align_tablet":"left","align_mobile":"center","width_mobile":{"unit":"%","size":70,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"876e6a8","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_inline_size_tablet":65,"content_position_mobile":"center","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"b58d17c","elType":"widget","settings":{"placeholder":"Search...","button_color":"#53a6d9","button_hover_color":"#53a6d9","border_radius":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"opstore-advance-search"}],"isInner":false}],"isInner":false},{"id":"a3f73f5","elType":"section","settings":{"background_background":"classic","background_color":"#000000","structure":"40","gap":"no","margin_mobile":{"unit":"px","top":"12","right":0,"bottom":"0","left":0,"isLinked":false},"padding_mobile":{"unit":"px","top":"6","right":"5","bottom":"6","left":"5","isLinked":false},"hide_desktop":"hidden-desktop","hide_tablet":"hidden-tablet"},"elements":[{"id":"65267e2","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":40,"content_position_tablet":"center"},"elements":[{"id":"183f7fb","elType":"widget","settings":{"toggle_label":"Menu","align_items":"left","pointer":"text","animation_text":"skew","menu_type":"off-canvas","menu_typography_typography":"custom","menu_typography_text_transform":"capitalize","color_menu_item":"#ffffff","dropdown":"mobile","toggle_align":"left","padding_horizontal_menu_item_tablet":{"unit":"px","size":12,"sizes":[]},"toggle_color":"#ffffff","toggle_background_color":"rgba(0,0,0,0)","toggle_label_typography_typography":"custom","toggle_label_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"overlay_bg_color":"#000000","mobile_link_color":"#ffffff","mobile_link_hover":"#ffc400"},"elements":[],"widgetType":"wpopea-advanced-menu"}],"isInner":false},{"id":"58d7a24","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":30,"content_position_tablet":"center"},"elements":[{"id":"a88614b","elType":"widget","settings":{"icon_type":"user","custom_icon":"lnr lnr-user","align_items":"text-right","icon_color":"#ffffff","icon_hover_color":"#ffc400"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"ec6cb3b","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":13,"content_position_mobile":"center"},"elements":[{"id":"ae66bba","elType":"widget","settings":{"icon_type":"wishlist","show_price":"","font_size":23,"icon_color":"#ffffff","icon_hover_color":"#53a6d9","align_items":"text-right","custom_icon":"lnr lnr-heart icon"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"bdf3bf1","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":17,"content_position_tablet":"center","padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"054076d","elType":"widget","settings":{"icon_type":"cart","show_price":"","font_size":23,"custom_icon":"lnr lnr-cart","minicart_style":"offcanvas","icon_hover_color":"#53a6d9","align_items":"text-right","icon_color":"#ffffff"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"65c4e79f","elType":"section","settings":{"structure":"60","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hide_mobile":"hidden-phone"},"elements":[{"id":"e8d74e0","elType":"column","settings":{"_column_size":16,"_inline_size":15.3480000000000007531752999057061970233917236328125,"_inline_size_tablet":30},"elements":[{"id":"1a6f26f8","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/logo-lite-1.png","id":264},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/","is_external":"","nofollow":""},"align_tablet":"left","align_mobile":"center"},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"7f744e42","elType":"column","settings":{"_column_size":16,"_inline_size":47.006000000000000227373675443232059478759765625,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_inline_size_tablet":65,"content_position_mobile":"center","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"78a96ed5","elType":"widget","settings":{"placeholder":"Search...","button_color":"#ffc400","button_hover_color":"#ffc400","border_radius":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"opstore-advance-search"}],"isInner":false},{"id":"129a4e55","elType":"column","settings":{"_column_size":16,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":30,"_inline_size_mobile":30},"elements":[{"id":"5c76ab6c","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/header-icon1.png","id":73},"title_text":"Free Shipping","description_text":"Order $250","position":"left","title_size":"span","title_color":"#666666","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":14,"sizes":[]},"title_typography_font_weight":"500","image_space":{"unit":"px","size":0,"sizes":[]},"image_size":{"unit":"%","size":45,"sizes":[]},"text_align":"left","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"1e917408","elType":"column","settings":{"_column_size":16,"_inline_size":14.824999999999999289457264239899814128875732421875,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"border_border":"solid","border_width":{"unit":"px","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"border_color":"#f5f5f5","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":30,"_inline_size_mobile":30,"margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"6680d372","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/header-icon2.png","id":88},"title_text":"Contact","description_text":"+01 2121 313","position":"left","title_size":"span","title_color":"#666666","title_typography_typography":"custom","title_typography_font_size":{"unit":"px","size":14,"sizes":[]},"title_typography_font_weight":"500","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]},"text_align":"left","image_space":{"unit":"px","size":0,"sizes":[]},"image_space_mobile":{"unit":"px","size":11,"sizes":[]},"image_size":{"unit":"%","size":45,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"1aae50f7","elType":"column","settings":{"_column_size":16,"_inline_size":4.8239999999999998436805981327779591083526611328125,"margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":20},"elements":[{"id":"4e3cebaa","elType":"widget","settings":{"icon_type":"wishlist","show_price":"","header_icon":"fa fa-heart-o","font_size":23,"icon_color":"#000000","icon_hover_color":"#ffc400"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"113354b0","elType":"column","settings":{"_column_size":16,"_inline_size":4.7409999999999996589394868351519107818603515625,"margin":{"unit":"px","top":"18","right":"0","bottom":"0","left":"0","isLinked":false},"_inline_size_tablet":20},"elements":[{"id":"7e67f9d7","elType":"widget","settings":{"icon_type":"cart","show_price":"","header_icon":"","font_size":23,"custom_icon":"lnr lnr-cart","minicart_style":"offcanvas","icon_hover_color":"#ffc400","align_items":"text-left"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false}],"isInner":false},{"id":"3c2efe1e","elType":"section","settings":{"background_background":"classic","background_color":"#545454","structure":"30","gap":"no","hide_mobile":"hidden-phone","padding":{"unit":"px","top":"5","right":"0","bottom":"5","left":"0","isLinked":false}},"elements":[{"id":"1e3bf9a6","elType":"column","settings":{"_column_size":33,"_inline_size":53.97099999999999653255144949071109294891357421875,"content_position_tablet":"center","_inline_size_tablet":50,"content_position":"center"},"elements":[{"id":"4a613c74","elType":"widget","settings":{"toggle_label":"Menu","align_items":"left","pointer":"text","animation_text":"skew","menu_type":"off-canvas","menu_typography_typography":"custom","menu_typography_text_transform":"capitalize","color_menu_item":"#ffffff","dropdown":"mobile","padding_horizontal_menu_item_tablet":{"unit":"px","size":12,"sizes":[]}},"elements":[],"widgetType":"wpopea-advanced-menu"}],"isInner":false},{"id":"b92345","elType":"column","settings":{"_column_size":33,"_inline_size":30.431000000000000937916411203332245349884033203125,"content_position_tablet":"center","_inline_size_tablet":30,"content_position":"center","margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding":{"unit":"px","top":"0","right":"20","bottom":"0","left":"0","isLinked":false},"css_classes":"lrm-login "},"elements":[{"id":"daa00cd","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"Login \/ Register","selected_icon":{"value":"far fa-user","library":"fa-regular"},"_id":"df0bf78","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/my-account","is_external":"","nofollow":""}}],"space_between":{"unit":"px","size":0,"sizes":[]},"icon_align":"right","icon_color":"#ffffff","icon_color_hover":"#ffc400","icon_size":{"unit":"px","size":17,"sizes":[]},"icon_self_align":"left","text_color":"#ffffff","text_color_hover":"#ffc400","text_indent":{"unit":"px","size":15,"sizes":[]},"_margin":{"unit":"px","top":"0","right":"0","bottom":"-20","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"lrm-hide-if-logged-in lrm-login"},"elements":[],"widgetType":"icon-list"},{"id":"b933c44","elType":"widget","settings":{"view":"inline","icon_list":[{"text":"My Account","selected_icon":{"value":"fas fa-user-cog","library":"fa-solid"},"_id":"df0bf78","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/my-account","is_external":"","nofollow":""}}],"space_between":{"unit":"px","size":0,"sizes":[]},"icon_align":"right","icon_color":"#ffffff","icon_color_hover":"#ffc400","icon_size":{"unit":"px","size":17,"sizes":[]},"icon_self_align":"left","text_color":"#ffffff","text_color_hover":"#ffc400","text_indent":{"unit":"px","size":15,"sizes":[]},"icon_typography_typography":"custom","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_css_classes":"lrm-show-if-logged-in"},"elements":[],"widgetType":"icon-list"}],"isInner":false},{"id":"d2e9010","elType":"column","settings":{"_column_size":33,"_inline_size":15.5969999999999995310417943983338773250579833984375,"content_position_tablet":"center","_inline_size_tablet":20,"content_position":"center","background_background":"classic","background_color":"#ffc400","background_hover_background":"classic","background_hover_color":"#ffc60c","background_hover_transition":{"unit":"px","size":0.59999999999999997779553950749686919152736663818359375,"sizes":[]}},"elements":[{"id":"66bb870","elType":"widget","settings":{"title":"Flash Sale!!","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/shop","is_external":"","nofollow":""},"size":"small","header_size":"span","align":"center","title_color":"#ffffff","typography_typography":"custom","typography_font_size":{"unit":"px","size":17,"sizes":[]},"_animation":"zoomIn"},"elements":[],"widgetType":"heading"}],"isInner":false}],"isInner":false},{"id":"417cf97","elType":"section","settings":{"structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"20","right":"0","bottom":"20","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"hide_desktop":"hidden-desktop","hide_tablet":"hidden-tablet"},"elements":[{"id":"11d4304","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":30},"elements":[{"id":"d5ca3f0","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/logo-lite-1.png","id":264},"image_size":"full","link_to":"custom","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/","is_external":"","nofollow":""},"align_tablet":"left","align_mobile":"center","width_mobile":{"unit":"%","size":70,"sizes":[]}},"elements":[],"widgetType":"image"}],"isInner":false},{"id":"876e6a8","elType":"column","settings":{"_column_size":50,"_inline_size":null,"margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_inline_size_tablet":65,"content_position_mobile":"center","margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[{"id":"b58d17c","elType":"widget","settings":{"placeholder":"Search...","button_color":"#ffc400","button_hover_color":"#ffc400","border_radius":{"unit":"px","size":"","sizes":[]}},"elements":[],"widgetType":"opstore-advance-search"}],"isInner":false}],"isInner":false},{"id":"a3f73f5","elType":"section","settings":{"background_background":"classic","background_color":"#545454","structure":"40","gap":"no","margin_mobile":{"unit":"px","top":"12","right":0,"bottom":"0","left":0,"isLinked":false},"padding_mobile":{"unit":"px","top":"6","right":"5","bottom":"6","left":"5","isLinked":false},"hide_desktop":"hidden-desktop","hide_tablet":"hidden-tablet"},"elements":[{"id":"65267e2","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":40,"content_position_tablet":"center"},"elements":[{"id":"183f7fb","elType":"widget","settings":{"toggle_label":"Menu","align_items":"left","pointer":"text","animation_text":"skew","menu_type":"off-canvas","menu_typography_typography":"custom","menu_typography_text_transform":"capitalize","color_menu_item":"#ffffff","dropdown":"mobile","toggle_align":"left","padding_horizontal_menu_item_tablet":{"unit":"px","size":12,"sizes":[]},"toggle_color":"#ffffff","toggle_background_color":"rgba(0,0,0,0)","toggle_label_typography_typography":"custom","toggle_label_typography_font_size_mobile":{"unit":"px","size":16,"sizes":[]},"overlay_bg_color":"#000000","mobile_link_color":"#ffffff","mobile_link_hover":"#ffc400"},"elements":[],"widgetType":"wpopea-advanced-menu"}],"isInner":false},{"id":"58d7a24","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":30,"content_position_tablet":"center"},"elements":[{"id":"a88614b","elType":"widget","settings":{"icon_type":"user","custom_icon":"lnr lnr-user","align_items":"text-right","icon_color":"#ffffff","icon_hover_color":"#ffc400"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"ec6cb3b","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":13,"content_position_mobile":"center"},"elements":[{"id":"ae66bba","elType":"widget","settings":{"icon_type":"wishlist","show_price":"","header_icon":"fa fa-heart-o","font_size":23,"icon_color":"#ffffff","icon_hover_color":"#ffc400","align_items":"text-right"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false},{"id":"bdf3bf1","elType":"column","settings":{"_column_size":25,"_inline_size":null,"_inline_size_mobile":17,"content_position_tablet":"center","padding_mobile":{"unit":"px","top":"0","right":"15","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"054076d","elType":"widget","settings":{"icon_type":"cart","show_price":"","header_icon":"","font_size":23,"custom_icon":"lnr lnr-cart","minicart_style":"offcanvas","icon_hover_color":"#ffc400","align_items":"text-right","icon_color":"#ffffff"},"elements":[],"widgetType":"opstore-header-icon"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:11:{s:6:"column";a:3:{s:5:"count";i:21;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:7:{s:12:"_inline_size";i:20;s:16:"content_position";i:9;s:19:"_inline_size_tablet";i:11;s:23:"content_position_mobile";i:3;s:19:"_inline_size_mobile";i:6;s:23:"content_position_tablet";i:6;s:5:"align";i:1;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:5:{s:6:"margin";i:8;s:13:"margin_mobile";i:3;s:14:"padding_mobile";i:4;s:7:"padding";i:3;s:11:"css_classes";i:1;}}s:5:"style";a:2:{s:14:"section_border";a:4:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;s:13:"border_radius";i:1;}s:13:"section_style";a:4:{s:21:"background_background";i:2;s:16:"background_color";i:3;s:22:"background_hover_color";i:1;s:27:"background_hover_transition";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:4:{s:5:"title";i:2;s:11:"header_size";i:2;s:5:"align";i:2;s:4:"link";i:1;}}s:5:"style";a:1:{s:19:"section_title_style";a:9:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:27:"typography_font_size_mobile";i:1;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:1;s:25:"typography_letter_spacing";i:2;s:27:"typography_font_size_tablet";i:1;s:25:"typography_text_transform";i:1;s:32:"typography_letter_spacing_tablet";i:1;}}s:8:"advanced";a:2:{s:14:"_section_style";a:2:{s:8:"_padding";i:2;s:7:"_margin";i:1;}s:15:"section_effects";a:3:{s:10:"_animation";i:1;s:18:"animation_duration";i:1;s:16:"_animation_delay";i:1;}}}}s:4:"icon";a:3:{s:5:"count";i:1;s:15:"control_percent";i:6;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:1:{s:13:"selected_icon";i:1;}}s:5:"style";a:1:{s:18:"section_style_icon";a:2:{s:13:"primary_color";i:1;s:4:"size";i:1;}}s:8:"advanced";a:3:{s:14:"_section_style";a:4:{s:8:"_z_index";i:1;s:12:"_css_classes";i:1;s:7:"_margin";i:1;s:8:"_padding";i:1;}s:17:"_section_position";a:3:{s:9:"_offset_x";i:1;s:9:"_position";i:1;s:9:"_offset_y";i:1;}s:19:"_section_background";a:2:{s:22:"_background_background";i:1;s:17:"_background_color";i:1;}}}}s:7:"section";a:3:{s:5:"count";i:6;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:6:"layout";a:2:{s:14:"section_layout";a:2:{s:6:"layout";i:2;s:3:"gap";i:5;}s:17:"section_structure";a:1:{s:9:"structure";i:6;}}s:5:"style";a:2:{s:18:"section_background";a:2:{s:21:"background_background";i:3;s:16:"background_color";i:3;}s:14:"section_border";a:5:{s:13:"border_border";i:1;s:12:"border_width";i:1;s:12:"border_color";i:1;s:26:"box_shadow_box_shadow_type";i:1;s:21:"box_shadow_box_shadow";i:1;}}s:8:"advanced";a:2:{s:16:"section_advanced";a:6:{s:11:"css_classes";i:1;s:6:"margin";i:3;s:7:"padding";i:4;s:14:"padding_mobile";i:3;s:7:"z_index";i:1;s:13:"margin_mobile";i:2;}s:19:"_section_responsive";a:3:{s:11:"hide_mobile";i:2;s:12:"hide_desktop";i:2;s:11:"hide_tablet";i:2;}}}}s:5:"image";a:3:{s:5:"count";i:3;s:15:"control_percent";i:3;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:6:{s:5:"image";i:3;s:10:"image_size";i:2;s:7:"link_to";i:3;s:4:"link";i:3;s:12:"align_tablet";i:2;s:12:"align_mobile";i:2;}}s:5:"style";a:1:{s:19:"section_style_image";a:1:{s:12:"width_mobile";i:1;}}}}s:22:"opstore-advance-search";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:1:{s:5:"style";a:1:{s:23:"opstore_products_styles";a:5:{s:12:"button_color";i:2;s:18:"button_hover_color";i:2;s:13:"border_radius";i:2;s:10:"text_color";i:1;s:16:"text_hover_color";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:2;s:15:"control_percent";i:6;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_image";a:5:{s:5:"image";i:2;s:10:"title_text";i:2;s:16:"description_text";i:2;s:8:"position";i:2;s:10:"title_size";i:2;}}s:5:"style";a:2:{s:21:"section_style_content";a:7:{s:11:"title_color";i:2;s:27:"title_typography_typography";i:2;s:26:"title_typography_font_size";i:2;s:28:"title_typography_font_weight";i:2;s:10:"text_align";i:2;s:33:"description_typography_typography";i:2;s:32:"description_typography_font_size";i:2;}s:19:"section_style_image";a:3:{s:11:"image_space";i:2;s:10:"image_size";i:2;s:18:"image_space_mobile";i:1;}}}}s:19:"opstore-header-icon";a:3:{s:5:"count";i:5;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:21:"opstore_sections_list";a:3:{s:9:"icon_type";i:5;s:10:"show_price";i:4;s:11:"custom_icon";i:5;}}s:5:"style";a:1:{s:11:"icon_styles";a:4:{s:9:"font_size";i:4;s:10:"icon_color";i:4;s:16:"icon_hover_color";i:5;s:11:"align_items";i:4;}}}}s:24:"wpopea-category-dropdown";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:16:"display_settings";a:3:{s:15:"show_title_icon";i:1;s:13:"show_catimage";i:1;s:10:"hide_empty";i:1;}}s:5:"style";a:3:{s:25:"cat_dropdown_title_styles";a:4:{s:27:"title_typography_typography";i:1;s:26:"title_typography_font_size";i:1;s:28:"title_typography_font_weight";i:1;s:31:"title_typography_text_transform";i:1;}s:27:"cat_dropdown_content_styles";a:3:{s:13:"content_space";i:1;s:21:"content_border_radius";i:1;s:15:"content_padding";i:1;}s:28:"cat_dropdown_cat_list_styles";a:6:{s:25:"cat_typography_typography";i:1;s:26:"cat_typography_font_weight";i:1;s:11:"cat_padding";i:1;s:16:"cat_border_width";i:1;s:16:"cat_border_color";i:1;s:15:"cat_hover_color";i:1;}}}}s:20:"wpopea-advanced-menu";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_layout";a:8:{s:11:"align_items";i:2;s:7:"pointer";i:2;s:14:"animation_text";i:2;s:9:"menu_type";i:2;s:8:"dropdown";i:2;s:14:"animation_line";i:1;s:9:"indicator";i:1;s:12:"toggle_align";i:1;}}s:5:"style";a:3:{s:23:"section_style_main-menu";a:9:{s:26:"menu_typography_typography";i:2;s:30:"menu_typography_text_transform";i:2;s:15:"color_menu_item";i:2;s:35:"padding_horizontal_menu_item_tablet";i:2;s:21:"color_menu_item_hover";i:1;s:29:"pointer_color_menu_item_hover";i:1;s:22:"color_menu_item_active";i:1;s:30:"pointer_color_menu_item_active";i:1;s:13:"pointer_width";i:1;}s:12:"style_toggle";a:4:{s:12:"toggle_color";i:1;s:23:"toggle_background_color";i:1;s:34:"toggle_label_typography_typography";i:1;s:40:"toggle_label_typography_font_size_mobile";i:1;}s:16:"style_responsive";a:3:{s:16:"overlay_bg_color";i:1;s:17:"mobile_link_color";i:1;s:17:"mobile_link_hover";i:1;}}}}s:9:"icon-list";a:3:{s:5:"count";i:2;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:1:{s:12:"section_icon";a:2:{s:4:"view";i:2;s:9:"icon_list";i:2;}}s:5:"style";a:3:{s:17:"section_icon_list";a:2:{s:13:"space_between";i:2;s:10:"icon_align";i:2;}s:18:"section_icon_style";a:4:{s:10:"icon_color";i:2;s:16:"icon_color_hover";i:2;s:9:"icon_size";i:2;s:15:"icon_self_align";i:2;}s:18:"section_text_style";a:4:{s:10:"text_color";i:2;s:16:"text_color_hover";i:2;s:11:"text_indent";i:2;s:26:"icon_typography_typography";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:3:{s:7:"_margin";i:2;s:8:"_padding";i:2;s:12:"_css_classes";i:2;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1612,12 +1525,167 @@
 		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";i:2;s:7:"divider";i:2;s:6:"spacer";i:4;s:9:"shortcode";i:1;s:6:"column";i:5;s:11:"text-editor";i:1;s:8:"icon-box";i:4;s:7:"section";i:3;s:11:"google_maps";i:1;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[{"id":"60249db2","elType":"section","settings":{"structure":"20","css_classes":"opstore-section","background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"bccb8f6","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":100,"background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"699035d5","elType":"widget","settings":{"title":"Make An Inquiry","title_color":"#4a4a4a","typography_typography":"custom","typography_font_family":"Raleway","typography_font_size":{"unit":"px","size":28},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1},"typography_font_size_mobile":{"unit":"px","size":20},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"heading"},{"id":"932cfc4","elType":"widget","settings":{"weight":{"unit":"px","size":2},"color":"#3f4198","width":{"unit":"%","size":10},"gap":{"unit":"px","size":2},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"divider"},{"id":"2e84660","elType":"widget","settings":{"space":{"unit":"px","size":20},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"spacer"},{"id":"cbc706b","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"310\" title=\"Contact form\"]","_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"64599123","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":100,"background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"2ab0acf8","elType":"widget","settings":{"title":"Company Information","title_color":"#4a4a4a","typography_typography":"custom","typography_font_family":"Raleway","typography_font_size":{"unit":"px","size":28},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1},"typography_font_size_mobile":{"unit":"px","size":20},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"heading"},{"id":"45f2c816","elType":"widget","settings":{"weight":{"unit":"px","size":2},"color":"#3f4198","width":{"unit":"%","size":10},"gap":{"unit":"px","size":2},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"divider"},{"id":"6ae1b7bc","elType":"widget","settings":{"space":{"unit":"px","size":20},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"spacer"},{"id":"2b6aa53f","elType":"widget","settings":{"editor":"<p>\u00a0Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\u00a0<\/p>","typography_typography":"custom","typography_font_family":"Muli","_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"text-editor"},{"id":"4445e46a","elType":"section","settings":{"structure":"20","background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"640085fe","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"44716859","elType":"widget","settings":{"icon":"fa fa-mobile-phone","view":"stacked","title_text":"Phone","description_text":"+977 213 34 34","position":"left","primary_color":"#4054b2","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.100000000000000088817841970012523233890533447265625},"selected_icon":{"value":"fas fa-mobile-alt","library":"fa-solid"},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"icon-box"},{"id":"7dfd8d7c","elType":"widget","settings":{"space":{"unit":"px","size":10},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"spacer"},{"id":"63e10c41","elType":"widget","settings":{"icon":"fa fa-map-marker","view":"stacked","title_text":"Location","description_text":"Kalankisthan, Kathmandu, Nepal.","position":"left","primary_color":"#4054b2","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.5},"selected_icon":{"value":"fas fa-map-marker-alt","library":"fa-solid"},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"64b733c8","elType":"column","settings":{"_column_size":50,"_inline_size":null,"background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"7d870381","elType":"widget","settings":{"icon":"fa fa-envelope-o","view":"stacked","title_text":"Email","description_text":"info@wpoperation.com","position":"left","primary_color":"#4054b2","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.5},"selected_icon":{"value":"far fa-envelope","library":"fa-regular"},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"icon-box"},{"id":"4839848c","elType":"widget","settings":{"space":{"unit":"px","size":10},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"spacer"},{"id":"112da289","elType":"widget","settings":{"icon":"fa fa-clock-o","view":"stacked","title_text":"Time","description_text":"Mon - Fri<br>\n10am - 5pm","position":"left","primary_color":"#4054b2","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.5},"selected_icon":{"value":"far fa-clock","library":"fa-regular"},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"icon-box"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"59548f46","elType":"section","settings":{"background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"4d268084","elType":"column","settings":{"_column_size":100,"_inline_size":null,"background_image":{"url":"","id":""},"background_image_tablet":{"url":"","id":""},"background_image_mobile":{"url":"","id":""},"background_video_fallback":{"url":"","id":""},"background_hover_image":{"url":"","id":""},"background_hover_image_tablet":{"url":"","id":""},"background_hover_image_mobile":{"url":"","id":""},"background_hover_video_fallback":{"url":"","id":""},"background_overlay_image":{"url":"","id":""},"background_overlay_image_tablet":{"url":"","id":""},"background_overlay_image_mobile":{"url":"","id":""},"background_overlay_video_fallback":{"url":"","id":""},"background_overlay_hover_image":{"url":"","id":""},"background_overlay_hover_image_tablet":{"url":"","id":""},"background_overlay_hover_image_mobile":{"url":"","id":""},"background_overlay_hover_video_fallback":{"url":"","id":""}},"elements":[{"id":"36c5885a","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":400},"css_filters_css_filter":"custom","css_filters_blur":{"unit":"px","size":0.5},"css_filters_brightness":{"unit":"px","size":91},"css_filters_contrast":{"unit":"px","size":102},"css_filters_saturate":{"unit":"px","size":6},"css_filters_hue":{"unit":"px","size":192},"_background_image":{"url":"","id":""},"_background_image_tablet":{"url":"","id":""},"_background_image_mobile":{"url":"","id":""},"_background_video_fallback":{"url":"","id":""},"_background_hover_image":{"url":"","id":""},"_background_hover_image_tablet":{"url":"","id":""},"_background_hover_image_mobile":{"url":"","id":""},"_background_hover_video_fallback":{"url":"","id":""}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:2;s:25:"typography_text_transform";i:2;s:22:"typography_line_height";i:2;s:27:"typography_font_size_mobile";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:6:"weight";i:2;s:5:"color";i:2;s:3:"gap";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"width";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:4;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:5;s:19:"_inline_size_tablet";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:4:"view";i:4;s:10:"title_text";i:4;s:16:"description_text";i:4;s:8:"position";i:4;s:13:"selected_icon";i:4;}}s:5:"style";a:2:{s:18:"section_style_icon";a:3:{s:13:"primary_color";i:4;s:10:"icon_space";i:4;s:9:"icon_size";i:4;}s:21:"section_style_content";a:8:{s:18:"title_bottom_space";i:4;s:11:"title_color";i:4;s:27:"title_typography_typography";i:4;s:28:"title_typography_font_family";i:4;s:26:"title_typography_font_size";i:4;s:28:"title_typography_font_weight";i:4;s:28:"title_typography_line_height";i:4;s:31:"title_typography_letter_spacing";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:11:"css_classes";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:1:{s:6:"height";i:1;}}s:5:"style";a:1:{s:17:"section_map_style";a:6:{s:22:"css_filters_css_filter";i:1;s:16:"css_filters_blur";i:1;s:22:"css_filters_brightness";i:1;s:20:"css_filters_contrast";i:1;s:20:"css_filters_saturate";i:1;s:15:"css_filters_hue";i:1;}}}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>offer</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/?attachment_id=308</link>
+		<pubDate>Sat, 07 Sep 2019 08:08:32 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/offer.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>308</wp:post_id>
+		<wp:post_date><![CDATA[2019-09-07 08:08:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-09-07 08:08:32]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[offer]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>232</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/offer.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/08/offer.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:28;s:6:"height";i:28;s:4:"file";s:17:"2019/08/offer.png";s:5:"sizes";a:0:{}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>logo-furniture</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/?attachment_id=327</link>
+		<pubDate>Wed, 16 Oct 2019 14:15:40 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-furniture.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>327</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-16 14:15:40]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-16 14:15:40]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo-furniture]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>232</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-furniture.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/08/logo-furniture.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:179;s:6:"height";i:53;s:4:"file";s:26:"2019/08/logo-furniture.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:25:"logo-furniture-150x53.png";s:5:"width";i:150;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:25:"logo-furniture-100x53.png";s:5:"width";i:100;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:25:"logo-furniture-100x53.png";s:5:"width";i:100;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>logo-furniture1</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/?attachment_id=330</link>
+		<pubDate>Wed, 16 Oct 2019 14:30:20 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-furniture1.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>330</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-16 14:30:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-16 14:30:20]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[logo-furniture1]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>232</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/logo-furniture1.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/08/logo-furniture1.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:179;s:6:"height";i:53;s:4:"file";s:27:"2019/08/logo-furniture1.png";s:5:"sizes";a:3:{s:9:"thumbnail";a:4:{s:4:"file";s:26:"logo-furniture1-150x53.png";s:5:"width";i:150;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:26:"logo-furniture1-100x53.png";s:5:"width";i:100;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:26:"logo-furniture1-100x53.png";s:5:"width";i:100;s:6:"height";i:53;s:9:"mime-type";s:9:"image/png";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>sl-banner</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/?attachment_id=333</link>
+		<pubDate>Wed, 16 Oct 2019 14:52:35 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/sl-banner.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>333</wp:post_id>
+		<wp:post_date><![CDATA[2019-10-16 14:52:35]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-10-16 14:52:35]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[sl-banner]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>232</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/sl-banner.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/08/sl-banner.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1920;s:6:"height";i:1280;s:4:"file";s:21:"2019/08/sl-banner.jpg";s:5:"sizes";a:14:{s:9:"thumbnail";a:4:{s:4:"file";s:21:"sl-banner-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:21:"sl-banner-300x200.jpg";s:5:"width";i:300;s:6:"height";i:200;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:21:"sl-banner-768x512.jpg";s:5:"width";i:768;s:6:"height";i:512;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:22:"sl-banner-1024x683.jpg";s:5:"width";i:1024;s:6:"height";i:683;s:9:"mime-type";s:10:"image/jpeg";}s:21:"yith-woocompare-image";a:4:{s:4:"file";s:21:"sl-banner-220x154.jpg";s:5:"width";i:220;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";}s:17:"opstore-blog-list";a:4:{s:4:"file";s:21:"sl-banner-850x650.jpg";s:5:"width";i:850;s:6:"height";i:650;s:9:"mime-type";s:10:"image/jpeg";}s:20:"opstore-blog-default";a:4:{s:4:"file";s:21:"sl-banner-370x265.jpg";s:5:"width";i:370;s:6:"height";i:265;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:21:"sl-banner-300x400.jpg";s:5:"width";i:300;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:21:"sl-banner-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:21:"sl-banner-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:21:"sl-banner-300x400.jpg";s:5:"width";i:300;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:21:"sl-banner-600x400.jpg";s:5:"width";i:600;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:21:"sl-banner-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:23:"mailpoet_newsletter_max";a:4:{s:4:"file";s:22:"sl-banner-1320x880.jpg";s:5:"width";i:1320;s:6:"height";i:880;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"1";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title>table-white-flower-interior-home-wall-1076294-pxhere.com</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/table-white-flower-interior-home-wall-1076294-pxhere-com/</link>
+		<pubDate>Mon, 04 Nov 2019 07:04:24 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/11/table-white-flower-interior-home-wall-1076294-pxhere.com_.jpg</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>335</wp:post_id>
+		<wp:post_date><![CDATA[2019-11-04 07:04:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-11-04 07:04:24]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[table-white-flower-interior-home-wall-1076294-pxhere-com]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/11/table-white-flower-interior-home-wall-1076294-pxhere.com_.jpg]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2019/11/table-white-flower-interior-home-wall-1076294-pxhere.com_.jpg]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:5:{s:5:"width";i:1280;s:6:"height";i:736;s:4:"file";s:69:"2019/11/table-white-flower-interior-home-wall-1076294-pxhere.com_.jpg";s:5:"sizes";a:13:{s:9:"thumbnail";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";}s:6:"medium";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-300x173.jpg";s:5:"width";i:300;s:6:"height";i:173;s:9:"mime-type";s:10:"image/jpeg";}s:12:"medium_large";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-768x442.jpg";s:5:"width";i:768;s:6:"height";i:442;s:9:"mime-type";s:10:"image/jpeg";}s:5:"large";a:4:{s:4:"file";s:70:"table-white-flower-interior-home-wall-1076294-pxhere.com_-1024x589.jpg";s:5:"width";i:1024;s:6:"height";i:589;s:9:"mime-type";s:10:"image/jpeg";}s:21:"yith-woocompare-image";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-220x154.jpg";s:5:"width";i:220;s:6:"height";i:154;s:9:"mime-type";s:10:"image/jpeg";}s:17:"opstore-blog-list";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-850x650.jpg";s:5:"width";i:850;s:6:"height";i:650;s:9:"mime-type";s:10:"image/jpeg";}s:20:"opstore-blog-default";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-370x265.jpg";s:5:"width";i:370;s:6:"height";i:265;s:9:"mime-type";s:10:"image/jpeg";}s:21:"woocommerce_thumbnail";a:5:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-300x400.jpg";s:5:"width";i:300;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";s:9:"uncropped";b:0;}s:18:"woocommerce_single";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-600x345.jpg";s:5:"width";i:600;s:6:"height";i:345;s:9:"mime-type";s:10:"image/jpeg";}s:29:"woocommerce_gallery_thumbnail";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}s:12:"shop_catalog";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-300x400.jpg";s:5:"width";i:300;s:6:"height";i:400;s:9:"mime-type";s:10:"image/jpeg";}s:11:"shop_single";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-600x345.jpg";s:5:"width";i:600;s:6:"height";i:345;s:9:"mime-type";s:10:"image/jpeg";}s:14:"shop_thumbnail";a:4:{s:4:"file";s:69:"table-white-flower-interior-home-wall-1076294-pxhere.com_-100x100.jpg";s:5:"width";i:100;s:6:"height";i:100;s:9:"mime-type";s:10:"image/jpeg";}}s:10:"image_meta";a:12:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -1659,62 +1727,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
-					<item>
-		<title>Sample Page</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/sample-page__trashed/</link>
-		<pubDate>Sat, 24 Aug 2019 00:14:55 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?page_id=2</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p>This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>Hi there! I'm a bike messenger by day, aspiring actor by night, and this is my website. I live in Los Angeles, have a great dog named Jack, and I like pi&#241;a coladas. (And gettin' caught in the rain.)</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>...or something like this:</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</p></blockquote>
-<!-- /wp:quote -->
-
-<!-- wp:paragraph -->
-<p>As a new WordPress user, you should go to <a href="https://demo.wpoperation.com/opstore-lite/furniture/wp-admin/">your dashboard</a> to delete this page and create new pages for your content. Have fun!</p>
-<!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>2</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 00:14:55]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 00:14:55]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[open]]></wp:ping_status>
-		<wp:post_name><![CDATA[sample-page__trashed]]></wp:post_name>
-		<wp:status><![CDATA[trash]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[default]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[publish]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_trash_meta_time]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1566606542]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_desired_post_slug]]></wp:meta_key>
-		<wp:meta_value><![CDATA[sample-page]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 					<item>
 		<title>Shop</title>
 		<link>https://demo.wpoperation.com/opstore-lite/furniture/shop/</link>
@@ -1836,20 +1848,43 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
 		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?page_id=10</guid>
 		<description></description>
-		<content:encoded><![CDATA[<figure><a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="20cdcec" data-elementor-lightbox-index="0"><img src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/3-Copy.png" alt="Accessories" /></a><figcaption>Accessories</figcaption></figure><figure><a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="20cdcec" data-elementor-lightbox-index="1"><img src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/6.png" alt="Home Accent" /></a><figcaption>Home Accent</figcaption></figure><figure><a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="20cdcec" data-elementor-lightbox-index="2"><img src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/5.png" alt="Clocks" /></a><figcaption>Clocks</figcaption></figure><figure><a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="20cdcec" data-elementor-lightbox-index="3"><img src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/1.png" alt="Chairs" /></a><figcaption>Chairs</figcaption></figure><figure><a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="20cdcec" data-elementor-lightbox-index="4"><img src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/3.png" alt="Accessories" /></a><figcaption>Accessories</figcaption></figure><figure><a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="20cdcec" data-elementor-lightbox-index="5"><img src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/4.png" alt="Table &amp; Desks" /></a><figcaption>Table & Desks</figcaption></figure><figure><a href="https://demo.wpoperation.com/opstore-lite/furniture/shop" data-elementor-open-lightbox="" data-elementor-lightbox-slideshow="20cdcec" data-elementor-lightbox-index="6"><img src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/2.png" alt="Sofas" /></a><figcaption>Sofas</figcaption></figure>			
-			<h2>Shop By Category</h2>		
-										<img width="327" height="457" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/bask3.jpg" alt="" srcset="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/bask3.jpg 327w, https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/bask3-215x300.jpg 215w" sizes="(max-width: 327px) 100vw, 327px" />											
-			Interiors		
-			New Arrivals		
-										<img width="327" height="457" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/sofa-style.jpg" alt="" srcset="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/sofa-style.jpg 327w, https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/sofa-style-215x300.jpg 215w" sizes="(max-width: 327px) 100vw, 327px" />											
-			Sofa		
-			Deorate Your Home		
-										<img width="327" height="457" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/bask4.jpg" alt="" srcset="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/bask4.jpg 327w, https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/bask4-215x300.jpg 215w" sizes="(max-width: 327px) 100vw, 327px" />											
-			Interiors		
-			New Arrivals		
-										<img width="327" height="457" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/clock2.jpg" alt="" srcset="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/clock2.jpg 327w, https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/clock2-215x300.jpg 215w" sizes="(max-width: 327px) 100vw, 327px" />											
-			Clock		
-			Move Your Time		
+		<content:encoded><![CDATA[<h2>Shop By Category</h2>		
+                        	<a href="https://demo.wpoperation.com/opstore-lite/furniture/product/quaerat-voluptatem/">
+                                <img width="300" height="400" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/chair1-300x400.jpg" alt="" />                             </a>   
+                        	<h6>
+                             <a title="Quaerat Voluptatem" href="https://demo.wpoperation.com/opstore-lite/furniture/product/quaerat-voluptatem/">
+                                Quaerat Voluptatem                             </a>
+                            </h6>
+	&#36;155.00
+	                            	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo...	                            
+	                        <a href="?add-to-cart=77" data-quantity="1" data-product_id="77" data-product_sku="" aria-label="Add &ldquo;Quaerat Voluptatem&rdquo; to your cart" rel="nofollow">Add to cart</a>                            
+                        	<a href="https://demo.wpoperation.com/opstore-lite/furniture/product/aenean-commodo-ligula/">
+                                <img width="300" height="400" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/jug1-300x400.png" alt="" />                             </a>   
+                        	<h6>
+                             <a title="Aenean commodo ligula" href="https://demo.wpoperation.com/opstore-lite/furniture/product/aenean-commodo-ligula/">
+                                Aenean commodo ligula                             </a>
+                            </h6>
+	&#36;89.00
+	                            	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo...	                            
+	                        <a href="?add-to-cart=126" data-quantity="1" data-product_id="126" data-product_sku="" aria-label="Add &ldquo;Aenean commodo ligula&rdquo; to your cart" rel="nofollow">Add to cart</a>                            
+                        	<a href="https://demo.wpoperation.com/opstore-lite/furniture/product/consectetuer-adipiscing/">
+                                <img width="300" height="400" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/bask1-300x400.jpg" alt="" />                             </a>   
+                        	<h6>
+                             <a title="Consectetuer Adipiscing" href="https://demo.wpoperation.com/opstore-lite/furniture/product/consectetuer-adipiscing/">
+                                Consectetuer Adipiscing                             </a>
+                            </h6>
+	&#36;122.00
+	                            	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo...	                            
+	                        <a href="?add-to-cart=135" data-quantity="1" data-product_id="135" data-product_sku="" aria-label="Add &ldquo;Consectetuer Adipiscing&rdquo; to your cart" rel="nofollow">Add to cart</a>                            
+                        	<a href="https://demo.wpoperation.com/opstore-lite/furniture/product/vivamus-elementum/">
+                                <img width="300" height="400" src="https://demo.wpoperation.com/opstore-lite/furniture/wp-content/uploads/sites/2/2019/08/chair11-300x400.png" alt="" />                             </a>   
+                        	<h6>
+                             <a title="Vivamus elementum" href="https://demo.wpoperation.com/opstore-lite/furniture/product/vivamus-elementum/">
+                                Vivamus elementum                             </a>
+                            </h6>
+	&#36;124.00
+	                            	Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo...	                            
+	                        <a href="?add-to-cart=136" data-quantity="1" data-product_id="136" data-product_sku="" aria-label="Add &ldquo;Vivamus elementum&rdquo; to your cart" rel="nofollow">Add to cart</a>                            
 			Heavy Discount On Interior Collection		
 			<h2>Get 35% Off Now</h2>		
 			<a href="#" role="button">
@@ -1910,19 +1945,19 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_template_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[post]]></wp:meta_value>
+		<wp:meta_value><![CDATA[wp-post]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2.6.8]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:11:{s:14:"image-carousel";i:1;s:6:"column";i:15;s:7:"section";i:9;s:11:"smartslider";i:1;s:7:"heading";i:14;s:7:"divider";i:2;s:5:"image";i:5;s:6:"button";i:1;s:16:"opstore-products";i:1;s:9:"shortcode";i:1;s:9:"image-box";i:3;}]]></wp:meta_value>
+		<wp:meta_value><![CDATA[2.7.4]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
-		<wp:meta_value><![CDATA[[{"id":"d46e17c","elType":"section","settings":{"margin":{"unit":"px","top":"20","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"909a682","elType":"column","settings":{"_column_size":100},"elements":[{"id":"20cdcec","elType":"widget","settings":{"carousel":[{"id":19,"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/3-Copy.png"},{"id":13,"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/6.png"},{"id":14,"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/5.png"},{"id":15,"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/1.png"},{"id":16,"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/3.png"},{"id":17,"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/4.png"},{"id":18,"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/2.png"}],"thumbnail_size":"full","slides_to_show":"6","navigation":"arrows","caption_type":"caption","caption_text_color":"#999999","caption_typography_typography":"custom","caption_typography_font_size":{"unit":"px","size":14,"sizes":[]},"caption_typography_font_weight":"400","caption_typography_text_transform":"uppercase","caption_typography_line_height":{"unit":"px","size":46,"sizes":[]},"link_to":"custom","link":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/shop","is_external":"","nofollow":""},"open_lightbox":"no","arrows_size":{"unit":"px","size":23,"sizes":[]},"slides_to_show_tablet":"4","slides_to_show_mobile":"3"},"elements":[],"widgetType":"image-carousel"}],"isInner":false}],"isInner":false},{"id":"e11401e","elType":"section","settings":{"margin":{"unit":"px","top":"-48","right":0,"bottom":"0","left":0,"isLinked":false},"gap":"no"},"elements":[{"id":"cd291dd","elType":"column","settings":{"_column_size":100},"elements":[{"id":"83330d5","elType":"widget","settings":{"smartsliderid":"3"},"elements":[],"widgetType":"smartslider"}],"isInner":false}],"isInner":false},{"id":"14b5a2a","elType":"section","settings":{"gap":"no","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"463fff9","elType":"column","settings":{"_column_size":100},"elements":[{"id":"bc611bd","elType":"section","settings":[],"elements":[{"id":"f704ed2","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"89b1400","elType":"widget","settings":{"title":"Shop By Category","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans"},"elements":[],"widgetType":"heading"},{"id":"38a463f","elType":"widget","settings":{"weight":{"unit":"px","size":2,"sizes":[]},"color":"#6cb975","width":{"unit":"%","size":5,"sizes":[]},"align":"left","gap":{"unit":"px","size":2,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"divider"}],"isInner":true}],"isInner":true},{"id":"2c59174","elType":"section","settings":{"structure":"40"},"elements":[{"id":"87a4b7a","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"b1eeb00","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/bask3.jpg","id":119},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"ecf676f","elType":"widget","settings":{"title":"Interiors","header_size":"div","title_color":"#3d3d3d","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"10","right":"10","bottom":"0","left":"10","isLinked":false},"_z_index":1,"_background_background":"classic"},"elements":[],"widgetType":"heading"},{"id":"74d8d05","elType":"widget","settings":{"title":"New Arrivals","header_size":"span","title_color":"#878787","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","_margin":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_z_index":0,"_background_color":"#ffffff"},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"7a090e0","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"03c186f","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/sofa-style.jpg","id":266},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"320a383","elType":"widget","settings":{"title":"Sofa","header_size":"div","title_color":"#3d3d3d","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"10","right":"10","bottom":"0","left":"10","isLinked":false},"_z_index":1,"_background_background":"classic"},"elements":[],"widgetType":"heading"},{"id":"d22737c","elType":"widget","settings":{"title":"Deorate Your Home","header_size":"span","title_color":"#878787","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","_margin":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_z_index":0,"_background_color":"#ffffff"},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"cd065ef","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"d4a70f6","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/bask4.jpg","id":122},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"4beacfd","elType":"widget","settings":{"title":"Interiors","header_size":"div","title_color":"#3d3d3d","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"10","right":"10","bottom":"0","left":"10","isLinked":false},"_z_index":1,"_background_background":"classic"},"elements":[],"widgetType":"heading"},{"id":"301bbc3","elType":"widget","settings":{"title":"New Arrivals","header_size":"span","title_color":"#878787","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","_margin":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_z_index":0,"_background_color":"#ffffff"},"elements":[],"widgetType":"heading"}],"isInner":true},{"id":"60857bf","elType":"column","settings":{"_column_size":25,"_inline_size":null},"elements":[{"id":"1b7ca36","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/clock2.jpg","id":132},"image_size":"full"},"elements":[],"widgetType":"image"},{"id":"2b6bce8","elType":"widget","settings":{"title":"Clock","header_size":"div","title_color":"#3d3d3d","typography_typography":"custom","typography_font_size":{"unit":"px","size":18,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"10","right":"10","bottom":"0","left":"10","isLinked":false},"_z_index":1,"_background_background":"classic"},"elements":[],"widgetType":"heading"},{"id":"47b0174","elType":"widget","settings":{"title":"Move Your Time","header_size":"span","title_color":"#878787","typography_typography":"custom","typography_font_size":{"unit":"px","size":14,"sizes":[]},"typography_font_weight":"400","_margin":{"unit":"px","top":"-15","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"10","isLinked":false},"_z_index":0,"_background_color":"#ffffff"},"elements":[],"widgetType":"heading"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"b120f48","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/main-banner-1-1.jpg","id":69},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"190","right":"0","bottom":"190","left":"0","isLinked":false},"margin":{"unit":"px","top":"50","right":0,"bottom":"50","left":0,"isLinked":true},"structure":"20","padding_tablet":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"21cdd60","elType":"column","settings":{"_column_size":50,"_inline_size":64.2109999999999985220711096189916133880615234375},"elements":[{"id":"c51b5a1","elType":"widget","settings":{"title":"Heavy Discount On Interior Collection","header_size":"div","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":39,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":26,"sizes":[]},"typography_line_height_mobile":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"e0872d4","elType":"widget","settings":{"title":"Get 35% Off Now","title_color":"#6cb975","typography_typography":"custom","typography_font_family":"Work Sans","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"b763024","elType":"widget","settings":{"text":"Shop Now","background_color":"#ffc400","button_background_hover_color":"#0c0c0c","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"button_text_color":"#000000","hover_color":"#ffffff","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"bc1e8f9","elType":"column","settings":{"_column_size":50,"_inline_size":35.7890000000000014779288903810083866119384765625},"elements":[],"isInner":false}],"isInner":false},{"id":"bd281cd","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"gap":"no","padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding_mobile":{"unit":"px","top":"12","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2229ac1","elType":"column","settings":{"_column_size":100},"elements":[{"id":"cd1c14a","elType":"widget","settings":{"title":"Trending Products","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans"},"elements":[],"widgetType":"heading"},{"id":"677c966","elType":"widget","settings":{"weight":{"unit":"px","size":2,"sizes":[]},"color":"#6cb975","width":{"unit":"%","size":5,"sizes":[]},"align":"left","gap":{"unit":"px","size":2,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"divider"},{"id":"8d0f7cc","elType":"widget","settings":{"per_page":8,"slide_no":4,"show_pager":"","display_style":"tabs","product_type":"category","category":["15","18","20","21"],"uad_tabs_alignment":"left","uad_cat_tabs_normal_border_border":"solid","uad_cat_tabs_normal_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"uad_cat_tabs_normal_border_color":"#ffc400","uad_tabs_hover_text_color":"#000000","uad_tabs_hover_bg_color":"#ffc400","uad_tabs_active_text_color":"#000000","uad_tabs_active_bg_color":"#ffc400","uad_tabs_padding":{"unit":"px","top":"5","right":"15","bottom":"5","left":"15","isLinked":false},"sale_tag_bg_color":"#6cb975","_margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"uad_tabs_alignment_mobile":"left","uad_tabs_typography_typography":"custom","uad_tabs_typography_font_size_mobile":{"unit":"px","size":10,"sizes":[]},"uad_tabs_padding_mobile":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":false}},"elements":[],"widgetType":"opstore-products"}],"isInner":false}],"isInner":false},{"id":"b94dbc5","elType":"section","settings":{"gap":"no","padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"0e8bd5e","elType":"column","settings":{"_column_size":100},"elements":[{"id":"bbaf6e1","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/sofa.png","id":251}},"elements":[],"widgetType":"image"},{"id":"79b91b9","elType":"widget","settings":{"title":"Heavy sale only for limited time","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans","align":"center","typography_font_size":{"unit":"px","size":34,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":1.6999999999999999555910790149937383830547332763671875,"sizes":[]},"_padding":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"typography_line_height_mobile":{"unit":"em","size":1.1999999999999999555910790149937383830547332763671875,"sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"cd7a37a","elType":"widget","settings":{"title":"Up to 25 % Off","title_color":"#ffc400","typography_typography":"custom","typography_font_family":"Work Sans","align":"center","typography_font_size":{"unit":"px","size":46,"sizes":[]},"_padding":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"4db37f3","elType":"widget","settings":{"shortcode":"[mailpoet_form id=\"1\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"15","right":"200","bottom":"0","left":"200","isLinked":false},"_z_index":999,"_css_classes":"opstore-footer-clothing","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"99a8d2c","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#f4f4f4","margin":{"unit":"px","top":"-19","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"50","bottom":"50","left":"50","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"690f409","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"center","border_border":"solid","border_width":{"unit":"px","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"border_color":"#e2e2e2","border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"d424844","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/online-support.png","id":173},"title_text":"24\/7 Online Support","description_text":"Sed ac erat dales vitae non estin vitae egestas enim in pretium nulla","position":"left","title_size":"div","image_space":{"unit":"px","size":0,"sizes":[]},"title_bottom_space":{"unit":"px","size":8,"sizes":[]},"title_color":"#282828","title_typography_typography":"custom","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"cdde639","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"center","border_border":"solid","border_width":{"unit":"px","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"border_color":"#e2e2e2","border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"889b79d","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/money-back.png","id":172},"title_text":"Money Back Guarantee","description_text":"Sed ac erat dales vitae non estin vitae egestas enim in pretium nulla","position":"left","title_size":"div","image_space":{"unit":"px","size":0,"sizes":[]},"title_bottom_space":{"unit":"px","size":8,"sizes":[]},"title_color":"#282828","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"7167931","elType":"column","settings":{"_column_size":33,"_inline_size":null,"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"abdfffb","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/free-shipp.png","id":171},"title_text":"Fast & Free Shipping","description_text":"Sed ac erat dales vitae non estin vitae egestas enim in pretium nulla","position":"left","title_size":"div","image_space":{"unit":"px","size":0,"sizes":[]},"title_bottom_space":{"unit":"px","size":8,"sizes":[]},"title_color":"#282828","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		<wp:meta_value><![CDATA[[{"id":"e11401e","elType":"section","settings":{"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"gap":"no","z_index":0},"elements":[{"id":"cd291dd","elType":"column","settings":{"_column_size":100},"elements":[{"id":"83330d5","elType":"widget","settings":{"smartsliderid":"3"},"elements":[],"widgetType":"smartslider"}],"isInner":false}],"isInner":false},{"id":"1d943a2","elType":"section","settings":{"gap":"no","padding":{"unit":"px","top":"80","right":"0","bottom":"20","left":"0","isLinked":false}},"elements":[{"id":"891b631","elType":"column","settings":{"_column_size":100},"elements":[{"id":"4d9c372","elType":"widget","settings":{"title":"Shop By Category","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans"},"elements":[],"widgetType":"heading"},{"id":"c040531","elType":"widget","settings":{"weight":{"unit":"px","size":2,"sizes":[]},"color":"#53a6d9","width":{"unit":"%","size":5,"sizes":[]},"align":"left","gap":{"unit":"px","size":2,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"text":"Divider"},"elements":[],"widgetType":"divider"}],"isInner":false}],"isInner":false},{"id":"2774ae8","elType":"section","settings":{"gap":"no","structure":"20","padding":{"unit":"px","top":"0","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"c6f16f7","elType":"column","settings":{"_column_size":50,"_inline_size":28.812000000000001165290086646564304828643798828125,"background_background":"classic","background_image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/clock2.jpg","id":132},"background_position":"center center","background_size":"cover"},"elements":[{"id":"dc5314f","elType":"widget","settings":{"title":""},"elements":[],"widgetType":"heading"}],"isInner":false},{"id":"a418df8","elType":"column","settings":{"_column_size":50,"_inline_size":71.1880000000000023874235921539366245269775390625,"content_position":"center"},"elements":[{"id":"2b6ce15","elType":"section","settings":{"gap":"no","structure":"20","margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2f42dc4","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"0129723","elType":"widget","settings":{"opstore_product_info_products_count":2,"opstore_product_info_product_title_typography_typography":"custom","opstore_product_info_product_title_typography_font_size":{"unit":"px","size":18,"sizes":[]}},"elements":[],"widgetType":"opstore-product-info"}],"isInner":true},{"id":"347d226","elType":"column","settings":{"_column_size":50,"_inline_size":null,"padding":{"unit":"px","top":"0","right":"0","bottom":"0","left":"30","isLinked":false}},"elements":[{"id":"5ae2f33","elType":"widget","settings":{"opstore_product_info_products_count":2,"opstore_product_info_products_offset":2},"elements":[],"widgetType":"opstore-product-info"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"b120f48","elType":"section","settings":{"background_background":"classic","background_image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/main-banner-1-1.jpg","id":69},"background_position":"center center","background_repeat":"no-repeat","background_size":"cover","padding":{"unit":"px","top":"190","right":"0","bottom":"190","left":"0","isLinked":false},"margin":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"structure":"20","padding_tablet":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false}},"elements":[{"id":"21cdd60","elType":"column","settings":{"_column_size":50,"_inline_size":64.2109999999999985220711096189916133880615234375},"elements":[{"id":"c51b5a1","elType":"widget","settings":{"title":"Heavy Discount On Interior Collection","header_size":"div","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans","typography_font_size":{"unit":"px","size":39,"sizes":[]},"typography_font_size_mobile":{"unit":"px","size":26,"sizes":[]},"typography_line_height_mobile":{"unit":"em","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"e0872d4","elType":"widget","settings":{"title":"Get 35% Off Now","title_color":"#53a6d9","typography_typography":"custom","typography_font_family":"Work Sans","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"b763024","elType":"widget","settings":{"text":"Shop Now","background_color":"#53a6d9","button_background_hover_color":"#0c0c0c","border_radius":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"button_text_color":"#ffffff","hover_color":"#ffffff","_padding":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"button"}],"isInner":false},{"id":"bc1e8f9","elType":"column","settings":{"_column_size":50,"_inline_size":35.7890000000000014779288903810083866119384765625},"elements":[],"isInner":false}],"isInner":false},{"id":"bd281cd","elType":"section","settings":{"margin":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"gap":"no","padding":{"unit":"px","top":"80","right":"0","bottom":"80","left":"0","isLinked":false},"margin_mobile":{"unit":"px","top":"","right":0,"bottom":"","left":0,"isLinked":true},"padding_mobile":{"unit":"px","top":"12","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"2229ac1","elType":"column","settings":{"_column_size":100},"elements":[{"id":"cd1c14a","elType":"widget","settings":{"title":"Trending Products","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans"},"elements":[],"widgetType":"heading"},{"id":"677c966","elType":"widget","settings":{"weight":{"unit":"px","size":2,"sizes":[]},"color":"#53a6d9","width":{"unit":"%","size":5,"sizes":[]},"align":"left","gap":{"unit":"px","size":2,"sizes":[]},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false},"text":"Divider"},"elements":[],"widgetType":"divider"},{"id":"8d0f7cc","elType":"widget","settings":{"per_page":8,"slide_no":4,"show_pager":"","display_style":"tabs","product_type":"category","category":["15","18","20","21"],"uad_tabs_alignment":"left","uad_cat_tabs_normal_border_border":"solid","uad_cat_tabs_normal_border_width":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"uad_cat_tabs_normal_border_color":"#53a6d9","uad_tabs_hover_text_color":"#ffffff","uad_tabs_hover_bg_color":"#53a6d9","uad_tabs_active_text_color":"#ffffff","uad_tabs_active_bg_color":"#53a6d9","uad_tabs_padding":{"unit":"px","top":"5","right":"15","bottom":"5","left":"15","isLinked":false},"sale_tag_bg_color":"#6cb975","_margin":{"unit":"px","top":"10","right":"0","bottom":"0","left":"0","isLinked":false},"uad_tabs_alignment_mobile":"left","uad_tabs_typography_typography":"custom","uad_tabs_typography_font_size_mobile":{"unit":"px","size":10,"sizes":[]},"uad_tabs_padding_mobile":{"unit":"px","top":"4","right":"4","bottom":"4","left":"4","isLinked":false}},"elements":[],"widgetType":"opstore-products"}],"isInner":false}],"isInner":false},{"id":"b94dbc5","elType":"section","settings":{"gap":"no","padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"0e8bd5e","elType":"column","settings":{"_column_size":100},"elements":[{"id":"bbaf6e1","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/sofa.png","id":251}},"elements":[],"widgetType":"image"},{"id":"79b91b9","elType":"widget","settings":{"title":"Heavy sale only for limited time","title_color":"#303030","typography_typography":"custom","typography_font_family":"Work Sans","align":"center","typography_font_size":{"unit":"px","size":34,"sizes":[]},"typography_letter_spacing":{"unit":"px","size":1.6999999999999999555910790149937383830547332763671875,"sizes":[]},"_padding":{"unit":"px","top":"30","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"typography_line_height_mobile":{"unit":"em","size":1.1999999999999999555910790149937383830547332763671875,"sizes":[]},"typography_letter_spacing_mobile":{"unit":"px","size":1.399999999999999911182158029987476766109466552734375,"sizes":[]}},"elements":[],"widgetType":"heading"},{"id":"cd7a37a","elType":"widget","settings":{"title":"Up to 25 % Off","title_color":"#53a6d9","typography_typography":"custom","typography_font_family":"Work Sans","align":"center","typography_font_size":{"unit":"px","size":46,"sizes":[]},"_padding":{"unit":"px","top":"15","right":"0","bottom":"0","left":"0","isLinked":false},"typography_font_size_mobile":{"unit":"px","size":28,"sizes":[]},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"heading"},{"id":"4db37f3","elType":"widget","settings":{"shortcode":"[mailpoet_form id=\"1\"]","_margin":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding":{"unit":"px","top":"15","right":"200","bottom":"0","left":"200","isLinked":false},"_z_index":999,"_css_classes":"opstore-footer-clothing","_margin_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false},"_padding_mobile":{"unit":"px","top":"0","right":"5","bottom":"0","left":"5","isLinked":false}},"elements":[],"widgetType":"shortcode"}],"isInner":false}],"isInner":false},{"id":"99a8d2c","elType":"section","settings":{"structure":"30","background_background":"classic","background_color":"#f4f4f4","margin":{"unit":"px","top":"-19","right":0,"bottom":"0","left":0,"isLinked":false},"padding":{"unit":"px","top":"100","right":"50","bottom":"50","left":"50","isLinked":false},"margin_mobile":{"unit":"px","top":"0","right":0,"bottom":"0","left":0,"isLinked":false},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"40","left":"0","isLinked":false}},"elements":[{"id":"690f409","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"center","border_border":"solid","border_width":{"unit":"px","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"border_color":"#e2e2e2","border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"d424844","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/online-support.png","id":173},"title_text":"24\/7 Online Support","description_text":"Sed ac erat dales vitae non estin vitae egestas enim in pretium nulla","position":"left","title_size":"div","image_space":{"unit":"px","size":0,"sizes":[]},"title_bottom_space":{"unit":"px","size":8,"sizes":[]},"title_color":"#282828","title_typography_typography":"custom","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]},"_padding_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"cdde639","elType":"column","settings":{"_column_size":33,"_inline_size":null,"content_position":"center","border_border":"solid","border_width":{"unit":"px","top":"0","right":"2","bottom":"0","left":"0","isLinked":false},"border_color":"#e2e2e2","border_width_mobile":{"unit":"px","top":"0","right":"0","bottom":"0","left":"0","isLinked":true},"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"889b79d","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/money-back.png","id":172},"title_text":"Money Back Guarantee","description_text":"Sed ac erat dales vitae non estin vitae egestas enim in pretium nulla","position":"left","title_size":"div","image_space":{"unit":"px","size":0,"sizes":[]},"title_bottom_space":{"unit":"px","size":8,"sizes":[]},"title_color":"#282828","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false},{"id":"7167931","elType":"column","settings":{"_column_size":33,"_inline_size":null,"padding_mobile":{"unit":"px","top":"40","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[{"id":"abdfffb","elType":"widget","settings":{"image":{"url":"https:\/\/demo.wpoperation.com\/opstore-lite\/furniture\/wp-content\/uploads\/sites\/2\/2019\/08\/free-shipp.png","id":171},"title_text":"Fast & Free Shipping","description_text":"Sed ac erat dales vitae non estin vitae egestas enim in pretium nulla","position":"left","title_size":"div","image_space":{"unit":"px","size":0,"sizes":[]},"title_bottom_space":{"unit":"px","size":8,"sizes":[]},"title_color":"#282828","description_typography_typography":"custom","description_typography_font_size":{"unit":"px","size":14,"sizes":[]}},"elements":[],"widgetType":"image-box"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:11:{s:11:"smartslider";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:30:"section_smart_slider_elementor";a:1:{s:13:"smartsliderid";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:13;s:15:"control_percent";i:1;s:8:"controls";a:3:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:9;s:16:"content_position";i:3;}}s:5:"style";a:2:{s:13:"section_style";a:4:{s:21:"background_background";i:1;s:16:"background_image";i:1;s:19:"background_position";i:1;s:15:"background_size";i:1;}s:14:"section_border";a:4:{s:13:"border_border";i:2;s:12:"border_width";i:2;s:12:"border_color";i:2;s:19:"border_width_mobile";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:2:{s:7:"padding";i:2;s:14:"padding_mobile";i:3;}}}}s:7:"section";a:3:{s:5:"count";i:8;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:8:"advanced";a:1:{s:16:"section_advanced";a:6:{s:6:"margin";i:5;s:7:"z_index";i:1;s:7:"padding";i:6;s:14:"padding_tablet";i:1;s:13:"margin_mobile";i:2;s:14:"padding_mobile";i:3;}}s:6:"layout";a:2:{s:14:"section_layout";a:1:{s:3:"gap";i:6;}s:17:"section_structure";a:1:{s:9:"structure";i:4;}}s:5:"style";a:1:{s:18:"section_background";a:6:{s:21:"background_background";i:2;s:16:"background_image";i:1;s:19:"background_position";i:1;s:17:"background_repeat";i:1;s:15:"background_size";i:1;s:16:"background_color";i:1;}}}}s:7:"heading";a:3:{s:5:"count";i:7;s:15:"control_percent";i:5;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_title";a:3:{s:5:"title";i:7;s:11:"header_size";i:1;s:5:"align";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:6;s:21:"typography_typography";i:6;s:22:"typography_font_family";i:6;s:20:"typography_font_size";i:3;s:27:"typography_font_size_mobile";i:3;s:29:"typography_line_height_mobile";i:2;s:25:"typography_letter_spacing";i:1;s:32:"typography_letter_spacing_mobile";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:2:{s:8:"_padding";i:3;s:15:"_padding_mobile";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:6:"weight";i:2;s:5:"color";i:2;s:3:"gap";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:2:{s:5:"width";i:2;s:5:"align";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:20:"opstore-product-info";a:3:{s:5:"count";i:2;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:37:"opstore_section_product_info_settings";a:2:{s:35:"opstore_product_info_products_count";i:2;s:36:"opstore_product_info_products_offset";i:1;}}s:5:"style";a:1:{s:39:"opstore_section_product_info_typography";a:2:{s:56:"opstore_product_info_product_title_typography_typography";i:1;s:55:"opstore_product_info_product_title_typography_font_size";i:1;}}}}s:6:"button";a:3:{s:5:"count";i:1;s:15:"control_percent";i:3;s:8:"controls";a:3:{s:7:"content";a:1:{s:14:"section_button";a:1:{s:4:"text";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:5:{s:16:"background_color";i:1;s:29:"button_background_hover_color";i:1;s:13:"border_radius";i:1;s:17:"button_text_color";i:1;s:11:"hover_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:8:"_padding";i:1;}}}}s:16:"opstore-products";a:3:{s:5:"count";i:1;s:15:"control_percent";i:7;s:8:"controls";a:3:{s:7:"content";a:2:{s:21:"opstore_sections_list";a:4:{s:8:"per_page";i:1;s:13:"display_style";i:1;s:12:"product_type";i:1;s:8:"category";i:1;}s:21:"wpopea_slider_section";a:2:{s:8:"slide_no";i:1;s:10:"show_pager";i:1;}}s:5:"style";a:2:{s:31:"uad_section_tabs_style_settings";a:13:{s:18:"uad_tabs_alignment";i:1;s:33:"uad_cat_tabs_normal_border_border";i:1;s:32:"uad_cat_tabs_normal_border_width";i:1;s:32:"uad_cat_tabs_normal_border_color";i:1;s:25:"uad_tabs_hover_text_color";i:1;s:23:"uad_tabs_hover_bg_color";i:1;s:26:"uad_tabs_active_text_color";i:1;s:24:"uad_tabs_active_bg_color";i:1;s:16:"uad_tabs_padding";i:1;s:25:"uad_tabs_alignment_mobile";i:1;s:30:"uad_tabs_typography_typography";i:1;s:36:"uad_tabs_typography_font_size_mobile";i:1;s:23:"uad_tabs_padding_mobile";i:1;}s:22:"opstore_saletag_styles";a:1:{s:17:"sale_tag_bg_color";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:1;}}}}s:5:"image";a:3:{s:5:"count";i:1;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:7:"content";a:1:{s:13:"section_image";a:1:{s:5:"image";i:1;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}s:8:"advanced";a:1:{s:14:"_section_style";a:6:{s:7:"_margin";i:1;s:8:"_padding";i:1;s:8:"_z_index";i:1;s:12:"_css_classes";i:1;s:14:"_margin_mobile";i:1;s:15:"_padding_mobile";i:1;}}}}s:9:"image-box";a:3:{s:5:"count";i:3;s:15:"control_percent";i:4;s:8:"controls";a:3:{s:7:"content";a:1:{s:13:"section_image";a:5:{s:5:"image";i:3;s:10:"title_text";i:3;s:16:"description_text";i:3;s:8:"position";i:3;s:10:"title_size";i:3;}}s:5:"style";a:2:{s:19:"section_style_image";a:1:{s:11:"image_space";i:3;}s:21:"section_style_content";a:5:{s:18:"title_bottom_space";i:3;s:11:"title_color";i:3;s:27:"title_typography_typography";i:1;s:33:"description_typography_typography";i:3;s:32:"description_typography_font_size";i:3;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:15:"_padding_mobile";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2436,6 +2471,106 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		</wp:postmeta>
 							</item>
 					<item>
+		<title>Integer tincidunt</title>
+		<link>https://demo.wpoperation.com/opstore-lite/furniture/product/integer-tincidunt/</link>
+		<pubDate>Sat, 24 Aug 2019 10:48:56 +0000</pubDate>
+		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
+		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?post_type=product&#038;p=137</guid>
+		<description></description>
+		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.]]></content:encoded>
+		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.]]></excerpt:encoded>
+		<wp:post_id>137</wp:post_id>
+		<wp:post_date><![CDATA[2019-08-24 10:48:56]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2019-08-24 10:48:56]]></wp:post_date_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[integer-tincidunt]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[product]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="product_cat" nicename="clocks"><![CDATA[Clocks]]></category>
+		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[139]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[213]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
+		<wp:meta_value><![CDATA[no]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
+		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
+		<wp:meta_value><![CDATA[]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
+		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
+		<wp:meta_value><![CDATA[0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
+		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
+		<wp:meta_value><![CDATA[213]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title></title>
 		<link>https://demo.wpoperation.com/opstore-lite/furniture/2019/08/24/158/</link>
 		<pubDate>Sat, 24 Aug 2019 11:28:04 +0000</pubDate>
@@ -2683,12 +2818,12 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 		<wp:meta_value><![CDATA[default]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
-		<wp:meta_key><![CDATA[_elementor_elements_usage]]></wp:meta_key>
-		<wp:meta_value><![CDATA[a:9:{s:7:"heading";i:2;s:7:"divider";i:2;s:6:"spacer";i:4;s:9:"shortcode";i:1;s:6:"column";i:5;s:11:"text-editor";i:1;s:8:"icon-box";i:4;s:7:"section";i:3;s:11:"google_maps";i:1;}]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
 		<wp:meta_key><![CDATA[_elementor_data]]></wp:meta_key>
 		<wp:meta_value><![CDATA[[{"id":"3fa9d83c","elType":"section","settings":{"structure":"20","css_classes":"opstore-section"},"elements":[{"id":"d9168d7","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":100},"elements":[{"id":"3f29ff59","elType":"widget","settings":{"title":"Make An Inquiry","title_color":"#4a4a4a","typography_typography":"custom","typography_font_family":"Raleway","typography_font_size":{"unit":"px","size":28},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1},"typography_font_size_mobile":{"unit":"px","size":20}},"elements":[],"widgetType":"heading"},{"id":"878186a","elType":"widget","settings":{"weight":{"unit":"px","size":2},"color":"#ffc400","width":{"unit":"%","size":10},"gap":{"unit":"px","size":2},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"divider"},{"id":"8d2ab73","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"7131d54d","elType":"widget","settings":{"shortcode":"[contact-form-7 id=\"292\" title=\"Contact Form\"]"},"elements":[],"widgetType":"shortcode"}],"isInner":false},{"id":"41f3f9ac","elType":"column","settings":{"_column_size":50,"_inline_size":null,"_inline_size_tablet":100},"elements":[{"id":"1bd6d1fc","elType":"widget","settings":{"title":"Company Information","title_color":"#4a4a4a","typography_typography":"custom","typography_font_family":"Raleway","typography_font_size":{"unit":"px","size":28},"typography_font_weight":"600","typography_text_transform":"uppercase","typography_line_height":{"unit":"em","size":1},"typography_font_size_mobile":{"unit":"px","size":20}},"elements":[],"widgetType":"heading"},{"id":"6edecc1e","elType":"widget","settings":{"weight":{"unit":"px","size":2},"color":"#ffc400","width":{"unit":"%","size":10},"gap":{"unit":"px","size":2},"_margin":{"unit":"px","top":"-10","right":"0","bottom":"0","left":"0","isLinked":false}},"elements":[],"widgetType":"divider"},{"id":"3f2f99e5","elType":"widget","settings":{"space":{"unit":"px","size":20}},"elements":[],"widgetType":"spacer"},{"id":"2da26e58","elType":"widget","settings":{"editor":"<p>\u00a0Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.\u00a0<\/p>","typography_typography":"custom","typography_font_family":"Muli"},"elements":[],"widgetType":"text-editor"},{"id":"3fc4fd27","elType":"section","settings":{"structure":"20"},"elements":[{"id":"7596ae37","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"369115f6","elType":"widget","settings":{"icon":"fa fa-mobile-phone","view":"stacked","title_text":"Phone","description_text":"+977 213 34 34","position":"left","primary_color":"#ffc400","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.100000000000000088817841970012523233890533447265625},"selected_icon":{"value":"fas fa-mobile-alt","library":"fa-solid"},"__fa4_migrated":{"selected_icon":true}},"elements":[],"widgetType":"icon-box"},{"id":"59765abb","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"6390c517","elType":"widget","settings":{"icon":"fa fa-map-marker","view":"stacked","title_text":"Location","description_text":"Kalankisthan, Kathmandu, Nepal.","position":"left","primary_color":"#ffc400","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.100000000000000088817841970012523233890533447265625},"selected_icon":{"value":"fas fa-map-marker-alt","library":"fa-solid"}},"elements":[],"widgetType":"icon-box"}],"isInner":true},{"id":"51f90fbf","elType":"column","settings":{"_column_size":50,"_inline_size":null},"elements":[{"id":"5c9d1f85","elType":"widget","settings":{"icon":"fa fa-envelope-o","view":"stacked","title_text":"Email","description_text":"info@wpoperation.com","position":"left","primary_color":"#ffc400","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.100000000000000088817841970012523233890533447265625},"selected_icon":{"value":"far fa-envelope","library":"fa-regular"},"__fa4_migrated":{"selected_icon":true}},"elements":[],"widgetType":"icon-box"},{"id":"2f8a64b5","elType":"widget","settings":{"space":{"unit":"px","size":10}},"elements":[],"widgetType":"spacer"},{"id":"39ca40e0","elType":"widget","settings":{"icon":"fa fa-clock-o","view":"stacked","title_text":"Time","description_text":"Mon - Fri<br>\n10am - 5pm","position":"left","primary_color":"#ffc400","icon_space":{"unit":"px","size":20},"icon_size":{"unit":"px","size":30},"title_bottom_space":{"unit":"px","size":0},"title_color":"#333333","title_typography_typography":"custom","title_typography_font_family":"Raleway","title_typography_font_size":{"unit":"px","size":24},"title_typography_font_weight":"600","title_typography_line_height":{"unit":"em","size":1.5},"title_typography_letter_spacing":{"unit":"px","size":2.100000000000000088817841970012523233890533447265625},"selected_icon":{"value":"far fa-clock","library":"fa-regular"}},"elements":[],"widgetType":"icon-box"}],"isInner":true}],"isInner":true}],"isInner":false}],"isInner":false},{"id":"717eaffd","elType":"section","settings":[],"elements":[{"id":"23db9913","elType":"column","settings":{"_column_size":100,"_inline_size":null},"elements":[{"id":"48d1c136","elType":"widget","settings":{"address":"London Eye, London, United Kingdom","height":{"unit":"px","size":400},"css_filters_css_filter":"custom","css_filters_blur":{"unit":"px","size":0.5},"css_filters_brightness":{"unit":"px","size":91},"css_filters_contrast":{"unit":"px","size":102},"css_filters_saturate":{"unit":"px","size":6},"css_filters_hue":{"unit":"px","size":192}},"elements":[],"widgetType":"google_maps"}],"isInner":false}],"isInner":false}]]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_elementor_controls_usage]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:9:{s:7:"heading";a:3:{s:5:"count";i:2;s:15:"control_percent";i:5;s:8:"controls";a:2:{s:7:"content";a:1:{s:13:"section_title";a:1:{s:5:"title";i:2;}}s:5:"style";a:1:{s:19:"section_title_style";a:8:{s:11:"title_color";i:2;s:21:"typography_typography";i:2;s:22:"typography_font_family";i:2;s:20:"typography_font_size";i:2;s:22:"typography_font_weight";i:2;s:25:"typography_text_transform";i:2;s:22:"typography_line_height";i:2;s:27:"typography_font_size_mobile";i:2;}}}}s:7:"divider";a:3:{s:5:"count";i:2;s:15:"control_percent";i:2;s:8:"controls";a:3:{s:5:"style";a:1:{s:21:"section_divider_style";a:3:{s:6:"weight";i:2;s:5:"color";i:2;s:3:"gap";i:2;}}s:7:"content";a:1:{s:15:"section_divider";a:1:{s:5:"width";i:2;}}s:8:"advanced";a:1:{s:14:"_section_style";a:1:{s:7:"_margin";i:2;}}}}s:6:"spacer";a:3:{s:5:"count";i:4;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:14:"section_spacer";a:1:{s:5:"space";i:4;}}}}s:9:"shortcode";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:1:{s:7:"content";a:1:{s:17:"section_shortcode";a:1:{s:9:"shortcode";i:1;}}}}s:6:"column";a:3:{s:5:"count";i:5;s:15:"control_percent";i:0;s:8:"controls";a:1:{s:6:"layout";a:1:{s:6:"layout";a:2:{s:12:"_inline_size";i:5;s:19:"_inline_size_tablet";i:2;}}}}s:11:"text-editor";a:3:{s:5:"count";i:1;s:15:"control_percent";i:1;s:8:"controls";a:2:{s:7:"content";a:1:{s:14:"section_editor";a:1:{s:6:"editor";i:1;}}s:5:"style";a:1:{s:13:"section_style";a:2:{s:21:"typography_typography";i:1;s:22:"typography_font_family";i:1;}}}}s:8:"icon-box";a:3:{s:5:"count";i:4;s:15:"control_percent";i:7;s:8:"controls";a:2:{s:7:"content";a:1:{s:12:"section_icon";a:5:{s:4:"view";i:4;s:10:"title_text";i:4;s:16:"description_text";i:4;s:8:"position";i:4;s:13:"selected_icon";i:4;}}s:5:"style";a:2:{s:18:"section_style_icon";a:3:{s:13:"primary_color";i:4;s:10:"icon_space";i:4;s:9:"icon_size";i:4;}s:21:"section_style_content";a:8:{s:18:"title_bottom_space";i:4;s:11:"title_color";i:4;s:27:"title_typography_typography";i:4;s:28:"title_typography_font_family";i:4;s:26:"title_typography_font_size";i:4;s:28:"title_typography_font_weight";i:4;s:28:"title_typography_line_height";i:4;s:31:"title_typography_letter_spacing";i:4;}}}}s:7:"section";a:3:{s:5:"count";i:3;s:15:"control_percent";i:0;s:8:"controls";a:2:{s:6:"layout";a:1:{s:17:"section_structure";a:1:{s:9:"structure";i:2;}}s:8:"advanced";a:1:{s:16:"section_advanced";a:1:{s:11:"css_classes";i:1;}}}}s:11:"google_maps";a:3:{s:5:"count";i:1;s:15:"control_percent";i:4;s:8:"controls";a:2:{s:7:"content";a:1:{s:11:"section_map";a:1:{s:6:"height";i:1;}}s:5:"style";a:1:{s:17:"section_map_style";a:6:{s:22:"css_filters_css_filter";i:1;s:16:"css_filters_blur";i:1;s:22:"css_filters_brightness";i:1;s:20:"css_filters_contrast";i:1;s:20:"css_filters_saturate";i:1;s:15:"css_filters_hue";i:1;}}}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -2845,106 +2980,6 @@ Commenter avatars come from <a href="https://gravatar.com">Gravatar</a>.]]></wp:
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_menu_item_url]]></wp:meta_key>
 		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title>Integer tincidunt</title>
-		<link>https://demo.wpoperation.com/opstore-lite/furniture/product/integer-tincidunt/</link>
-		<pubDate>Sat, 24 Aug 2019 10:48:56 +0000</pubDate>
-		<dc:creator><![CDATA[opstore-lite]]></dc:creator>
-		<guid isPermaLink="false">https://demo.wpoperation.com/opstore-lite/furniture/?post_type=product&#038;p=137</guid>
-		<description></description>
-		<content:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo. Nullam dictum felis eu pede mollis pretium. Integer tincidunt. Cras dapibus. Vivamus elementum semper nisi. Aenean vulputate eleifend tellus. Aenean leo ligula, porttitor eu, consequat vitae, eleifend ac, enim.]]></content:encoded>
-		<excerpt:encoded><![CDATA[Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu.]]></excerpt:encoded>
-		<wp:post_id>137</wp:post_id>
-		<wp:post_date><![CDATA[2019-08-24 10:48:56]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2019-08-24 10:48:56]]></wp:post_date_gmt>
-		<wp:comment_status><![CDATA[open]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[integer-tincidunt]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[product]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="product_cat" nicename="clocks"><![CDATA[Clocks]]></category>
-		<category domain="product_type" nicename="simple"><![CDATA[simple]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[139]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_regular_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[213]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[total_sales]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[taxable]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_tax_class]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_manage_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_backorders]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_sold_individually]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_virtual]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_downloadable]]></wp:meta_key>
-		<wp:meta_value><![CDATA[no]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_limit]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_download_expiry]]></wp:meta_key>
-		<wp:meta_value><![CDATA[-1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock]]></wp:meta_key>
-		<wp:meta_value><![CDATA[]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_stock_status]]></wp:meta_key>
-		<wp:meta_value><![CDATA[instock]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_average_rating]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wc_review_count]]></wp:meta_key>
-		<wp:meta_value><![CDATA[0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_product_version]]></wp:meta_key>
-		<wp:meta_value><![CDATA[3.7.0]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_price]]></wp:meta_key>
-		<wp:meta_value><![CDATA[213]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
