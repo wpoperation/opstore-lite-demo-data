@@ -78,6 +78,7 @@
                 'slug'    => 'sale-alert',
                 'init'    => 'sale-alert/sale-alert.php',
                 'name'    => 'Sale Alert(Pro)',
+                'link'    => 'https://wpoperation.com/plugins/sale-alert/'
               ),
               
             ),
@@ -162,6 +163,7 @@
                 'slug'    => 'sale-alert',
                 'init'    => 'sale-alert/sale-alert.php',
                 'name'    => 'Sale Alert(Pro)',
+                'link'    => 'https://wpoperation.com/plugins/sale-alert/'
               ),
               
             ),
@@ -247,6 +249,7 @@
                 'slug'    => 'sale-alert',
                 'init'    => 'sale-alert/sale-alert.php',
                 'name'    => 'Sale Alert(Pro)',
+                'link'    => 'https://wpoperation.com/plugins/sale-alert/'
               ),
               
             ),
@@ -330,6 +333,7 @@
                 'slug'    => 'sale-alert',
                 'init'    => 'sale-alert/sale-alert.php',
                 'name'    => 'Sale Alert(Pro)',
+                'link'    => 'https://wpoperation.com/plugins/sale-alert/'
               ),
               
             ),
@@ -407,6 +411,7 @@
                 'slug'    => 'sale-alert',
                 'init'    => 'sale-alert/sale-alert.php',
                 'name'    => 'Sale Alert(Pro)',
+                'link'    => 'https://wpoperation.com/plugins/sale-alert/'
               ),
               
             ),
@@ -491,6 +496,7 @@
                 'slug'    => 'sale-alert',
                 'init'    => 'sale-alert/sale-alert.php',
                 'name'    => 'Sale Alert(Pro)',
+                'link'    => 'https://wpoperation.com/plugins/sale-alert/'
               ),
               
             ),
@@ -574,9 +580,73 @@
                 'slug'    => 'sale-alert',
                 'init'    => 'sale-alert/sale-alert.php',
                 'name'    => 'Sale Alert(Pro)',
+                'link'    => 'https://wpoperation.com/plugins/sale-alert/'
               ),
               
             ),
           ),
-        )
-      );
+        ),
+        'watches' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/watches/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+        'jewelry' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/jewelry/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+        'cosmetics' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/cosmetics/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ),
+        'fashionv1' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/fashionv1/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+        'fashionv2' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/fashionv2/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+        'furniture-pro' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/furniture/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+        'electronics-pro' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/electronics/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+        'bike' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/bike/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+        'parallax' => array(
+          'categories'        => array( 'Pro' ),
+          'preview_url'     => 'https://demo.wpoperation.com/opstore-pro/parallax/',
+          'is_premium'  => true,
+          'pro_link' => 'https://wpoperation.com/opstore-pro/',
+          'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
+         ), 
+         );
