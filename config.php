@@ -32,6 +32,11 @@
                 'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
                 'name'    => 'WPOP Elementor Addons',
               ),
+             array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
               array(
                 'slug'    => 'salert',
                 'init'    => 'salert/salert.php',
@@ -48,11 +53,6 @@
                 'name'    => 'Contact Form 7',
               ),
               array(
-                'slug'    => 'ajax-login-and-registration-modal-popup',
-                'init'    => 'ajax-login-and-registration-modal-popup/ajax-login-and-registration-modal-popup.php',
-                'name'    => 'Ajax Login popup',
-              ),
-              array(
                 'slug'    => 'yith-woocommerce-wishlist',
                 'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
@@ -66,11 +66,6 @@
                 'slug'    => 'yith-woocommerce-compare',
                 'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
-              ),
-              array(
-                'slug'    => 'mailpoet',
-                'init'    => 'mailpoet/mailpoet.php',
-                'name'    => 'Mailpoet',
               ),
             ),
             'premium' => array(
@@ -117,6 +112,11 @@
                 'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
                 'name'    => 'WPOP Elementor Addons',
               ),
+             array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
+              ),
               array(
                 'slug'    => 'salert',
                 'init'    => 'salert/salert.php',
@@ -133,11 +133,6 @@
                 'name'    => 'Contact Form 7',
               ),
               array(
-                'slug'    => 'ajax-login-and-registration-modal-popup',
-                'init'    => 'ajax-login-and-registration-modal-popup/ajax-login-and-registration-modal-popup.php',
-                'name'    => 'Ajax Login popup',
-              ),
-              array(
                 'slug'    => 'yith-woocommerce-wishlist',
                 'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
@@ -152,11 +147,6 @@
                 'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
               ),
-              array(
-                'slug'    => 'mailpoet',
-                'init'    => 'mailpoet/mailpoet.php',
-                'name'    => 'Mailpoet',
-              ),
             ),
             'premium' => array(
               array(
@@ -170,7 +160,7 @@
           ),
         ),
 
-        'default' => array(
+               'default' => array(
           'categories'        => array( 'Default', 'Fashion' ),
           'preview_url'     => 'https://demo.wpoperation.com/opstore/default/',
           'xml_file'        => 'content.xml',
@@ -201,7 +191,12 @@
               array(
                 'slug'    => 'wpop-elementor-addons',
                 'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
-                'name'    => 'WPOP Elementor Addons',
+                'name'    => 'Operation Elementor Addons',
+              ),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
               ),
               array(
                 'slug'    => 'salert',
@@ -219,11 +214,6 @@
                 'name'    => 'Smart Slider',
               ),
               array(
-                'slug'    => 'ajax-login-and-registration-modal-popup',
-                'init'    => 'ajax-login-and-registration-modal-popup/ajax-login-and-registration-modal-popup.php',
-                'name'    => 'Ajax Login popup',
-              ),
-              array(
                 'slug'    => 'yith-woocommerce-wishlist',
                 'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
@@ -237,11 +227,6 @@
                 'slug'    => 'yith-woocommerce-compare',
                 'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
-              ),
-              array(
-                'slug'    => 'mailpoet',
-                'init'    => 'mailpoet/mailpoet.php',
-                'name'    => 'Mailpoet',
               ),
             ),
             'premium' => array(
@@ -285,7 +270,12 @@
               array(
                 'slug'    => 'wpop-elementor-addons',
                 'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
-                'name'    => 'WPOP Elementor Addons',
+                'name'    => 'Operation Elementor Addons',
+              ),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
               ),
               array(
                 'slug'    => 'salert',
@@ -303,11 +293,6 @@
                 'name'    => 'Smart Slider',
               ),
               array(
-                'slug'    => 'ajax-login-and-registration-modal-popup',
-                'init'    => 'ajax-login-and-registration-modal-popup/ajax-login-and-registration-modal-popup.php',
-                'name'    => 'Ajax Login popup',
-              ),
-              array(
                 'slug'    => 'yith-woocommerce-wishlist',
                 'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
@@ -321,11 +306,6 @@
                 'slug'    => 'yith-woocommerce-compare',
                 'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
-              ),
-              array(
-                'slug'    => 'mailpoet',
-                'init'    => 'mailpoet/mailpoet.php',
-                'name'    => 'Mailpoet',
               ),
             ),
             'premium' => array(
@@ -368,7 +348,12 @@
               array(
                 'slug'    => 'wpop-elementor-addons',
                 'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
-                'name'    => 'WPOP Elementor Addons',
+                'name'    => 'Operation Elementor Addons',
+              ),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
               ),
               array(
                 'slug'    => 'salert',
@@ -379,11 +364,6 @@
                 'slug'    => 'contact-form-7',
                 'init'    => 'contact-form-7/wp-contact-form-7.php',
                 'name'    => 'Contact Form 7',
-              ),
-              array(
-                'slug'    => 'ajax-login-and-registration-modal-popup',
-                'init'    => 'ajax-login-and-registration-modal-popup/ajax-login-and-registration-modal-popup.php',
-                'name'    => 'Ajax Login popup',
               ),
               array(
                 'slug'    => 'yith-woocommerce-wishlist',
@@ -399,11 +379,6 @@
                 'slug'    => 'yith-woocommerce-compare',
                 'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
-              ),
-              array(
-                'slug'    => 'mailpoet',
-                'init'    => 'mailpoet/mailpoet.php',
-                'name'    => 'Mailpoet',
               ),
             ),
             'premium' => array(
@@ -448,7 +423,12 @@
               array(
                 'slug'    => 'wpop-elementor-addons',
                 'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
-                'name'    => 'WPOP Elementor Addons',
+                'name'    => 'Operation Elementor Addons',
+              ),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
               ),
               array(
                 'slug'    => 'salert',
@@ -466,11 +446,6 @@
                 'name'    => 'Smart Slider',
               ),
               array(
-                'slug'    => 'ajax-login-and-registration-modal-popup',
-                'init'    => 'ajax-login-and-registration-modal-popup/ajax-login-and-registration-modal-popup.php',
-                'name'    => 'Ajax Login popup',
-              ),
-              array(
                 'slug'    => 'yith-woocommerce-wishlist',
                 'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
@@ -484,11 +459,6 @@
                 'slug'    => 'yith-woocommerce-compare',
                 'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
-              ),
-              array(
-                'slug'    => 'mailpoet',
-                'init'    => 'mailpoet/mailpoet.php',
-                'name'    => 'Mailpoet',
               ),
             ),
             'premium' => array(
@@ -532,7 +502,12 @@
               array(
                 'slug'    => 'wpop-elementor-addons',
                 'init'    => 'wpop-elementor-addons/wpop-elementor-addons.php',
-                'name'    => 'WPOP Elementor Addons',
+                'name'    => 'Operation Elementor Addons',
+              ),
+              array(
+                'slug'    => 'ultra-companion',
+                'init'    => 'ultra-companion/ultra-companion.php',
+                'name'    => 'Ultra Companion',
               ),
               array(
                 'slug'    => 'salert',
@@ -550,11 +525,6 @@
                 'name'    => 'Smart Slider',
               ),
               array(
-                'slug'    => 'ajax-login-and-registration-modal-popup',
-                'init'    => 'ajax-login-and-registration-modal-popup/ajax-login-and-registration-modal-popup.php',
-                'name'    => 'Ajax Login popup',
-              ),
-              array(
                 'slug'    => 'yith-woocommerce-wishlist',
                 'init'    => 'yith-woocommerce-wishlist/init.php',
                 'name'    => 'YITH WooCommerce Wishlist',
@@ -568,11 +538,6 @@
                 'slug'    => 'yith-woocommerce-compare',
                 'init'    => 'yith-woocommerce-compare/init.php',
                 'name'    => 'YITH WooCommerce Compare',
-              ),
-              array(
-                'slug'    => 'mailpoet',
-                'init'    => 'mailpoet/mailpoet.php',
-                'name'    => 'Mailpoet',
               ),
             ),
             'premium' => array(
@@ -649,4 +614,6 @@
           'pro_link' => 'https://wpoperation.com/opstore-pro/',
           'purchase_link' => 'https://wpoperation.com/cart/?add-to-cart=696',
          ), 
-         );
+      );
+$file = json_encode($data);
+print_r($file);
